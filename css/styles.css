@@ -1819,7 +1819,7 @@ a.rudy-chip:hover {
 }
 .ukraine-map {
   width: 100%;
-  max-width: 76%;
+  max-width: 79.8%;
   margin-inline: auto;
   overflow: hidden;
   border-radius: 6px;
@@ -1830,7 +1830,7 @@ a.rudy-chip:hover {
   display: block;
   width: 100%;
   height: auto;
-  max-height: 520px;
+  max-height: 546px;
 }
 .ukraine-outline-pulse {
   animation: ukr-outline-pulse 3.2s ease-in-out infinite;
@@ -1990,7 +1990,7 @@ a.ukraine-headline:hover {
   padding: 0.08rem 0.4rem;
 }
 @media (max-width: 640px) {
-  .ukraine-svg { max-height: 340px; }
+  .ukraine-svg { max-height: 357px; }
   .ukraine-hotspot .hot-label { font-size: 9px; }
 }
 
