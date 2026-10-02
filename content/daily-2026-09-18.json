@@ -1,0 +1,81 @@
+{
+  "type": "daily",
+  "date": "2026-09-18",
+  "title": "Daily Brief",
+  "prices": {
+    "btc": 83636,
+    "gold": 4194,
+    "copper": 6.63,
+    "wti": 89.51,
+    "brent": 96.2,
+    "tenY": 5.26,
+    "muel": 460,
+    "shaGoldPrem": 20,
+    "cattle": 220.9
+  },
+  "items": [
+    {
+      "n": 1,
+      "category": "UA",
+      "headline": "Operation Vivaldi blunts Russia’s northern Fortress Belt pincer",
+      "bullets": [
+        "ISW (Sep 17): Ukraine’s 3rd Army Corps says the Lyman-direction counteroffensive operationally defeated Russia’s northern arm of a planned double envelopment (Lyman/Svyatohirsk north, Dobropillya south, converge on Barvinkove). Strike campaign on Luhansk logistics degraded Russian EW fuel supply — enabling drone overmatch.",
+        "General Staff (08:00 Sep 18): 230 clashes yesterday; heaviest pressure Pokrovsk (25) and Kostiantynivka (19). Russia still massing armor/Rubikon drones for a fall mechanized push at Dobropillya — southern pincer not closed."
+      ]
+    },
+    {
+      "n": 2,
+      "category": "EU",
+      "headline": "Post-Orbán Budapest says it can exit Russian gas by Oct 2027",
+      "bullets": [
+        "Economy Minister István Kapitány (Telex/Bloomberg): Hungary has pipeline capacity to replace Russian gas at competitive prices within ~a year; Paks II nuclear expansion and oil diversification under review. Sharp break from Orbán-era Moscow energy lock-in under PM Péter Magyar.",
+        "Parallel pressure: EU gas storage ~69% vs ~85% five-year seasonal norm (GIE via Reuters); TTF ~€81/MWh (+150% y/y). Germany/Netherlands lag on fill; AfD gains on cheap-Russian-gas messaging ahead of more state votes."
+      ]
+    },
+    {
+      "n": 3,
+      "category": "ENERGY",
+      "headline": "Hormuz still throttled; Saudi pipeline repair takes the edge off crude",
+      "bullets": [
+        "Ship-tracking (Reuters): commodity vessel Hormuz transits fell to ~3 on Wed vs ~17 ten-day average. Khamenei adviser Zolghadr (Iran International): Tehran will keep the strait closed until Trump/Netanyahu leave office — treat as regime line; CENTCOM still claims commercial flow with escorts.",
+        "WTI Oct settled $101.91 (−0.51%); Brent Nov $104.82. Risk premium eased as Saudi East-West pipeline half-capacity repair talk and Oman STS exports cooled the spike from earlier Houthi/Iran-linked hits. Diesel cracks remain the sticky inflation channel into Europe."
+      ]
+    },
+    {
+      "n": 4,
+      "category": "BTC",
+      "headline": "Holds ~$77.4k through Fed hike and BOJ lift; spot ETF tape flips green",
+      "bullets": [
+        "CoinGecko morning prints near $77,400–$77,470 (+~1.4% d/d) after overnight dip toward $76.2k. Fed +25 bp to 3.75–4.00% (first hike since 2023); BOJ +25 bp to 1.25% (31-year high) — both largely priced; yields eased, risk bid returned.",
+        "US spot BTC ETFs: ~$159.5M net inflows Sep 17 (IBIT-led), reversing prior-session outflows. Resistance cluster still $78–80k; CLARITY Act cloture failure remains a regulatory overhang — not a custody story."
+      ]
+    },
+    {
+      "n": 5,
+      "category": "GOLD",
+      "headline": "Bullion rebounds as oil and yields back off",
+      "bullets": [
+        "Spot gold ~$4,360–$4,363 (+~0.5%); silver ~$66–$67. Pullback in crude and the 10y (back below 5% in some prints) eased the post-FOMC real-yield squeeze. Goldman still carries a $5,400 end-2027 target — path slower under a hiking Fed, thesis not abandoned.",
+        "Metals read: gold the cleaner macro hedge while diesel/gas keep Europe’s sticky inflation risk alive."
+      ]
+    },
+    {
+      "n": 6,
+      "category": "MACRO",
+      "headline": "Twin central-bank hikes; October Fed odds still live",
+      "bullets": [
+        "Fed unanimous +25 bp Wed; markets pricing >50% chance of another hike in October as energy-war inflation bleeds into core. ECB already hiked last week; Lagarde pushed back Friday on aggressive hike bets keyed only to oil/gas.",
+        "Cross-asset: Nasdaq rebound on softer yields/oil; chips led. Liquidity better than midweek, not easy — watch claims and product cracks, not just the funds rate."
+      ]
+    },
+    {
+      "n": 7,
+      "category": "GEO",
+      "headline": "House Russia/Iran sanctions tariff bill advances; Baltic drone ambiguity",
+      "bullets": [
+        "House passed the Lindsey O. Graham Sanctioning Russia and Iran Act (Sep 16): up to 100% tariffs on the five largest buyers of Russian oil/gas — awaits Trump signature. Directly relevant to Hungary’s US exemption ask while it diversifies.",
+        "Lithuanian President Nausėda: Russia may be deliberately letting drones “deviate” into NATO airspace (ISW Phase Zero framing). Ambiguity is the feature."
+      ]
+    }
+  ]
+}

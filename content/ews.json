@@ -1,0 +1,10 @@
+{
+  "source": "https://ews.kylemcdonald.net/",
+  "dashboard": "https://pub-49bb6a6f314c47be9b481c25e5f6ca9e.r2.dev/dashboard.json",
+  "label": "EWS",
+  "levelText": "1/5",
+  "emergencyLevel": 1,
+  "alertLevel": "normal",
+  "asOf": "2026-10-02T02:59:50-05:00",
+  "updated": "2026-10-02T07:27:39-05:00"
+}

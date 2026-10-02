@@ -1,0 +1,83 @@
+{
+  "type": "forward",
+  "date": "2026-09-01",
+  "label": "SAMPLE",
+  "title": "Forward Look — September",
+  "prices": {
+    "btc": 90500,
+    "gold": 2610,
+    "wti": 68.20
+  },
+  "items": [
+    {
+      "n": 1,
+      "category": "MACRO",
+      "headline": "September path: Fed patience vs election-year fiscal noise",
+      "bullets": [
+        "Base case: no panic easing unless labor cracks hard; markets still over-price neat landing narratives.",
+        "Fiscal impulse and Treasury issuance remain the background radiation for duration and gold.",
+        "Scenario map: soft data + sticky services inflation = choppy real yields — gold's preferred habitat."
+      ]
+    },
+    {
+      "n": 2,
+      "category": "BTC",
+      "headline": "BTC forward: ETF maturity phase — flows over narratives",
+      "bullets": [
+        "Post-halving and post-ETF honeymoon, the market increasingly trades like a macro-sensitive hard asset.",
+        "Key monitors: spot ETF primary flows, CME basis, and miner treasury behavior into weaker hashprice windows.",
+        "Sound-money thesis unchanged: scarce collateral in a world of elastic money. Volatility is the tuition."
+      ]
+    },
+    {
+      "n": 3,
+      "category": "GOLD",
+      "headline": "Gold forward: CB diversification bid meets Western positioning",
+      "bullets": [
+        "Official-sector buying has been the multi-year floor; that does not vanish because of one risk-on week.",
+        "Western speculative length can still flush — use dips as information, not as thesis invalidation.",
+        "Metals complex: gold leads; silver and miners are beta — size them as such."
+      ]
+    },
+    {
+      "n": 4,
+      "category": "ENERGY",
+      "headline": "Energy forward: winter distillate + chokepoint risk = asymmetric upside",
+      "bullets": [
+        "Seasonal distillate tightness into Northern Hemisphere winter is the cleanest structural setup on the board.",
+        "Geopolitical optionality on Hormuz/Red Sea remains underpriced if you only watch calm sessions.",
+        "WTI range can break higher on a supply scare faster than it breaks lower on soft demand."
+      ]
+    },
+    {
+      "n": 5,
+      "category": "GEO",
+      "headline": "Map forward: multipolar friction as a standing assumption",
+      "bullets": [
+        "Treat contested sea lanes, sanctions enforcement, and proxy theaters as permanent features of the price formation process.",
+        "Alliances are more transactional; that raises the value of hard collateral and energy optionality.",
+        "For this wire: geography is not color commentary — it is a risk factor."
+      ]
+    },
+    {
+      "n": 6,
+      "category": "INTEL",
+      "headline": "Intel forward: commercial sensing compresses the fog, not the fog of war",
+      "bullets": [
+        "SAR, AIS, and OSINT will keep shrinking the time from incident to public awareness.",
+        "That speed creates more false positives — verification discipline becomes the edge.",
+        "Ozark Wire standard: label confidence. Unverified is not confirmed."
+      ]
+    },
+    {
+      "n": 7,
+      "category": "TECH",
+      "headline": "Tech/power forward: AI load reshapes the energy conversation",
+      "bullets": [
+        "Data-center power demand is no longer a niche utility story; it collides with gas, nuclear, and transmission CapEx.",
+        "Watch interconnection queues and transformer supply — those are the real capacity constraints.",
+        "Investment implication: firm power and grid hardware matter more than app-layer narratives for hard-asset desks."
+      ]
+    }
+  ]
+}

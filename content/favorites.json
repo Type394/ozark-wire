@@ -1,0 +1,58 @@
+{
+  "updated": "2026-09-29T14:22:46-05:00",
+  "guests": [
+    {
+      "name": "Luke Gromen",
+      "aliases": [
+        "Luke Gromen"
+      ]
+    },
+    {
+      "name": "Lyn Alden",
+      "aliases": [
+        "Lyn Alden"
+      ]
+    },
+    {
+      "name": "Doomberg",
+      "aliases": [
+        "Doomberg"
+      ]
+    },
+    {
+      "name": "Curtis Yarvin",
+      "aliases": [
+        "Curtis Yarvin",
+        "Mencius Moldbug"
+      ]
+    },
+    {
+      "name": "Dave Collum",
+      "aliases": [
+        "Dave Collum",
+        "David Collum"
+      ]
+    },
+    {
+      "name": "Michael Howell",
+      "aliases": [
+        "Michael Howell",
+        "CrossBorder Cap",
+        "CrossBorder Capital"
+      ]
+    }
+  ],
+  "excludeGuests": [
+    "Nik Bhatia",
+    "Nikhil Bhatia"
+  ],
+  "shows": [
+    "TFTC",
+    "What Bitcoin Did",
+    "BTC Sessions",
+    "Scott Horton Show",
+    "The Duran",
+    "Luke Gromen - FFTT, LLC"
+  ],
+  "notes": "Christopher favorites for Talks Featured. Universe: content/youtube-subs.json. Morning routine: match guests case-insensitively in guest/title on ANY subscription channel → Featured ★; match shows case-insensitively on show (incl. Luke Gromen channel uploads as favorite-show). Do not star Nik Bhatia."
+}

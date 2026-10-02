@@ -1,0 +1,20 @@
+{
+  "source": "https://mempool.emzy.de",
+  "endpoints": {
+    "height": "/api/blocks/tip/height",
+    "fees": "/api/v1/fees/recommended"
+  },
+  "height": 969587,
+  "mediumFeeSatVb": 1,
+  "feePriority": "halfHourFee",
+  "fees": {
+    "fastestFee": 1,
+    "halfHourFee": 1,
+    "hourFee": 1,
+    "economyFee": 1,
+    "minimumFee": 1
+  },
+  "asOf": "2026-10-02T07:27:39-05:00",
+  "updated": "2026-10-02T07:27:39-05:00",
+  "note": "Tip height + fees via mempool.emzy.de mirror (mempool.space TLS failed from box); cross-checked Blockstream tip 969587."
+}

@@ -1,0 +1,73 @@
+{
+  "type": "daily",
+  "date": "2026-10-01",
+  "title": "Daily Brief",
+  "prices": {
+    "btc": 83920,
+    "gold": 4210,
+    "shaGoldPrem": 14,
+    "copper": 6.58,
+    "cattle": 222.9,
+    "feeder": 334.4,
+    "wti": 91.68,
+    "brent": 99.87,
+    "tenY": 5.29,
+    "muel": 453
+  },
+  "items": [
+    {
+      "n": 1,
+      "category": "ENERGY",
+      "headline": "Hormuz crude near prewar; diesel/refined still the sticky channel — Brent ~$100 / WTI ~$92",
+      "bullets": [
+        "Yahoo tape (Thu AM CT): WTI ~$91.7, Brent ~$99.9. Overnight desks split — CNBC early: Dec Brent/WTI softer on Yanbu/Red Sea loadings + ME export recovery; later tape re-bid as U.S.–Iran talks stall (AA: Brent back above $100). Kpler/EL PAÍS: Hormuz crude transits ~prewar (~13.5–14 mb/d); refined/gasoline still lagging.",
+        "Polymarket Hormuz normal by Dec 31: Yes ~20% / No ~80%. Spread story unchanged — Brent–WTI still wide (~$8 on this print). Diesel/Europe remains the security channel even if crude flows look healthier."
+      ]
+    },
+    {
+      "n": 2,
+      "category": "GEO",
+      "headline": "ISW Sep 30: Russia opens winter energy-strike campaign on Kyiv grid",
+      "bullets": [
+        "ISW/Critical Threats (Sep 30): overnight Sep 29–30 massive drone+missile package primarily hit Kyiv City/Oblast energy — Trypillya TPP damaged, Ukrenergo emergency outages — assessed start of Winter 2026–27 campaign to degrade power and force capitulation. Zelensky: ~190 strike drones + ballistic; daytime follow-on packages also reported.",
+        "Side notes: likely Russian drone crash in Moldova (Hirbovat); Kremlin signaling EU corporate-asset seizures as sanctions leverage. Ground fight still Lyman/Kostiantynivka/Pokrovsk axes — treat liberation claims as one-sided until maps settle."
+      ]
+    },
+    {
+      "n": 3,
+      "category": "MACRO",
+      "headline": "Soft Aug PCE flips Oct FOMC toward hold; 10y ~5.29% into ISM/claims",
+      "bullets": [
+        "Aug PCE (Wed): headline +0.3% m/m / 3.4% y/y; core +0.2% / 3.0% y/y — below consensus. Polymarket Oct 28–29 FOMC: No change ~63.5% / +25 bp ~35.5% (was coin-flip earlier in the week). Another 2026 hike still ~81.5% Yes. Fed funds remain 3.75–4.00% post–Sep hike.",
+        "Calendar (CT): Thu ISM mfg + claims; Fri Sep NFP. 10y ~5.29% (Sep 30 settle). Copper ~$6.58/lb. MUEL ~$453 (last equity print)."
+      ]
+    },
+    {
+      "n": 4,
+      "category": "BTC",
+      "headline": "Still boxed $82.5–85k into Q4; ETF streak snaps (−$149M)",
+      "bullets": [
+        "BTC ~$83,920 (Yahoo) — same multi-session box. CoinDesk: briefly >$85k on soft PCE, failed to hold; U.S. spot ETFs −$148.7M Wed (SoSoValue), ending a 9-day / ~$3.08B inflow streak. Bitfinex: BAER compressed — needs ~$190M/day absorption to clear $84–86.5k overhead.",
+        "Macro choke still 10y near 2007 highs + energy path; soft PCE helps the hold case but doesn’t clear the range alone."
+      ]
+    },
+    {
+      "n": 5,
+      "category": "GOLD",
+      "headline": "Holds ~$4,210 after PCE relief; SHA +$14",
+      "bullets": [
+        "GC=F ~$4,210 (Yahoo Thu AM). Soft Aug core PCE + Oct hold odds support the bid; 10y still ~5.29% caps the squeeze. Prior washout toward ~$4,100 area remains the nearby risk if NFP/ISM reheat the hike tape.",
+        "Shanghai (FindBullionPrices latest row Sep 30): SHAU AM $4,187.71 vs COMEX $4,173.59 → SHA +$14/oz. Mild China premium — not panic arb."
+      ]
+    },
+    {
+      "n": 6,
+      "category": "EU",
+      "headline": "ECB Oct hold ~87–88%; Europe still diesel-short under Hormuz product tightness",
+      "bullets": [
+        "Kalshi/Polymarket Oct 29 ECB: Maintain/No change ~87–88% / hike 25 bp ~11–12%. Deposit rate 2.50% after Sep +25 bp on energy-led inflation. Continent remains the refined-product short — freight/CPI passthrough is the European security story even as Hormuz crude recovers.",
+        "No live Dutch election board (PM/cabinet markets closed). Beat stays on the desk."
+      ]
+    }
+  ]
+}

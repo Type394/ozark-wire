@@ -1,0 +1,82 @@
+{
+  "type": "daily",
+  "date": "2026-10-02",
+  "title": "Daily Brief",
+  "prices": {
+    "btc": 86623,
+    "gold": 4208,
+    "shaGoldPrem": 14,
+    "copper": 6.56,
+    "cattle": 223.4,
+    "feeder": 336.8,
+    "wti": 89.87,
+    "brent": 99.97,
+    "tenY": 5.24,
+    "muel": 454
+  },
+  "items": [
+    {
+      "n": 1,
+      "category": "BTC",
+      "headline": "Breaks $86k (+~3.2% vs Thu print); ETF tape flips back to +$103M",
+      "bullets": [
+        "BTC ~$86,623 (Yahoo Fri AM CT) — clears the multi-session $82.5–85k box after Wed’s fade. CryptoSlate/The Block: U.S. spot ETFs +$102.7M net on Oct 1 (Farside), reversing Wed’s −$148.7M; IBIT led (+~$196M) while FBTC/GBTC still redeemed. Citi 12-mo target lifted to $113k (reports).",
+        "Next test is Sep NFP (08:30 ET). Holding $86k through payrolls + another green ETF day would confirm the reclaim; a snap-back under $84–85k would re-box the range. 10y still ~5.24% — real yields remain the macro choke."
+      ]
+    },
+    {
+      "n": 2,
+      "category": "ENERGY",
+      "headline": "Thu Hormuz/China-export spike fades; WTI ~$90 / Brent ~$100 on Yahoo Fri AM",
+      "bullets": [
+        "Yahoo CL=F ~$89.87 / BZ=F ~$99.97 Fri AM CT after Thu settles ~$92.87 / ~$102.31 (carrier + China fuel-export halt headlines). Reuters overnight: Brent briefly >$102 on WSJ third-carrier + China refined-export curb; Kpler/desks still cite Hormuz crude flows recovering (~13+ mb/d) while diesel/product remains the sticky channel.",
+        "Polymarket Hormuz normal by Dec 31: Yes ~20.5% / No ~79.5%. Brent–WTI ~$10 on this Yahoo print — product/security premium still in the curve even as the overnight crude bid gives back."
+      ]
+    },
+    {
+      "n": 3,
+      "category": "MACRO",
+      "headline": "Oct FOMC hold ~74–75% into NFP; 10y ~5.24% (−5 bp vs Thu desk)",
+      "bullets": [
+        "Polymarket Oct 28–29 FOMC: No change ~74.5% / +25 bp ~24.5% (was ~63.5/35.5 yesterday). Another 2026 hike Yes ~75.5% (was ~81.5%). Soft Aug PCE + Williams/Goldman December-lean keep October as a hold base case into the print.",
+        "Calendar (CT): Sep NFP 07:30 — consensus ~90–98k, UE 4.1%, AHE ~0.3% m/m / ~3.2% y/y. Hot 130k+ / firm wages would reprice Oct hike odds and push 10y back toward 5.3%. Copper ~$6.56/lb. MUEL ~$454."
+      ]
+    },
+    {
+      "n": 4,
+      "category": "GEO",
+      "headline": "Brazil race tight into Oct 4; Greenwald flags Moraes/Master as election risk",
+      "bullets": [
+        "Polymarket overall winner: Flávio Bolsonaro ~55% / Lula ~44.5% / Renan ~0.15% (live ~Oct 2 CT). First round Sunday Oct 4; runoff path still the base case. Valor (Oct 2): STF crisis + Banco Master scandal dominate the campaign narrative — PL slogan “Moraes is Lula, Lula is Moraes.”",
+        "Glenn Greenwald (X/@ggreenwald): argues Moraes/Master payments and judicial overreach reshape the Lula–Flávio contest and democracy risk — https://x.com/ggreenwald/status/2072653327947452899 (also Substack framing: greenwald.substack.com/p/the-fall-of-brazils-tyrannical-judge). Desk: watch disqualification / STF moves as path risk vs tape."
+      ]
+    },
+    {
+      "n": 5,
+      "category": "GEO",
+      "headline": "Winter energy campaign continues: Kyiv bridges + six oblasts without power",
+      "bullets": [
+        "Follow-through after Sep 30–Oct 1 Trypillia/Kyiv grid package: Ukrenergo (Oct 2 AM) — emergency outages in Donetsk, Dnipropetrovsk, Zaporizhzhia, Mykolaiv, Kharkiv, Chernihiv; consumption +3.9% vs prior day. ABC/AP: three Dnipro bridges in Kyiv partially closed after drone hits — new disruption tactic beyond substations.",
+        "Sybiha (Thu, embargoed Fri): Kyiv open to combined energy + Black Sea ceasefire proposals (US/India/Turkey/Egypt floated). Zelenskyy out by YE2026 Polymarket Yes still ~5.5%."
+      ]
+    },
+    {
+      "n": 6,
+      "category": "GOLD",
+      "headline": "Holds ~$4,208 into NFP; SHA still +$14 (Sep 30 SGE row)",
+      "bullets": [
+        "GC=F ~$4,208 (Yahoo Fri AM). Tape mixed into payrolls — Yahoo Finance desk notes Dec gold ~$4,210 open; some Asia prints softer on USD/yields. Soft PCE + higher Oct hold odds support the bid; a hot NFP that lifts 10y is the near-term risk back toward the ~$4,100–4,150 washout zone.",
+        "Shanghai (FindBullionPrices): latest SGE trade date still Sep 30 — SHAU AM $4,187.71 vs COMEX $4,173.59 → SHA +$14/oz. Mild China premium unchanged."
+      ]
+    },
+    {
+      "n": 7,
+      "category": "EU",
+      "headline": "ECB Oct hold ~90–91%; French 2027 still Le Pen-led; NL board closed",
+      "bullets": [
+        "Polymarket ECB Oct 2026: No change ~90.5% / +25 bp ~10.5% (firmer hold than yesterday’s ~87–88%). Deposit rate 2.50% post–Sep hike; Europe remains the refined-product short under Hormuz product tightness.",
+        "French 2027 (Polymarket): Le Pen ~44% / Philippe ~20% / Mélenchon ~13% / Lisnard ~8%. Dutch PM market resolved (Jetten) — no live NL race; desk note stays."
+      ]
+    }
+  ]
+}

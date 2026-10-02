@@ -1,0 +1,51 @@
+{
+  "updated": "2026-09-29T15:23:45-05:00",
+  "notes": "Confirmed exclusions for public Podcast Subs / YouTube Subs panels. Match case-insensitive substring on name/aliases. scope: podcasts | youtube | both.",
+  "patterns": [
+    {
+      "pattern": "dutch",
+      "scope": "both",
+      "reason": "language study"
+    },
+    {
+      "pattern": "learn dutch",
+      "scope": "both",
+      "reason": "language study"
+    },
+    {
+      "pattern": "dutchpod",
+      "scope": "both",
+      "reason": "language study"
+    },
+    {
+      "pattern": "dutch pod",
+      "scope": "both",
+      "reason": "language study"
+    },
+    {
+      "pattern": "after party",
+      "scope": "both",
+      "reason": "user exclude"
+    },
+    {
+      "pattern": "camp of the saints",
+      "scope": "both",
+      "reason": "user exclude"
+    },
+    {
+      "pattern": "brownstone",
+      "scope": "both",
+      "reason": "user exclude"
+    },
+    {
+      "pattern": "megyn kelly",
+      "scope": "both",
+      "reason": "user exclude"
+    },
+    {
+      "pattern": "british history",
+      "scope": "both",
+      "reason": "user exclude"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "updated": "2026-10-02T12:20:00-05:00",
+  "markets": [
+    {
+      "id": "brazil-2026",
+      "title": "Brazil 2026 presidential",
+      "source": "Polymarket",
+      "url": "https://polymarket.com/event/brazil-presidential-election",
+      "volume": "$161.6M",
+      "outcomes": [
+        {
+          "name": "Fl\u00e1vio Bolsonaro",
+          "prob": 0.5505
+        },
+        {
+          "name": "Luiz In\u00e1cio Lula da Silva",
+          "prob": 0.445
+        },
+        {
+          "name": "Renan Santos",
+          "prob": 0.0015
+        }
+      ],
+      "note": "Overall winner (incl. runoff). Oct 4 first round. Live Polymarket ~Oct 2 CT (Fl\u00e1vio ~55% / Lula ~44.5%). Greenwald on X: Moraes/Master scandal + judicial risks frame the race \u2014 https://x.com/ggreenwald/status/2072653327947452899"
+    },
+    {
+      "id": "israel-pm-next-election",
+      "title": "Prime Minister of Israel After the Next Election",
+      "source": "Polymarket",
+      "url": "https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+      "volume": "$41.9M",
+      "outcomes": [
+        {
+          "name": "Gadi Eizenkot",
+          "prob": 0.474
+        },
+        {
+          "name": "Benjamin Netanyahu",
+          "prob": 0.335
+        },
+        {
+          "name": "Naftali Bennett",
+          "prob": 0.145
+        },
+        {
+          "name": "Avigdor Lieberman",
+          "prob": 0.021
+        }
+      ],
+      "note": "Live Polymarket ~Oct 2, 2026 CT (Eizenkot ~47% / Netanyahu ~34%). End window ~Oct 27\u201328 cycle."
+    },
+    {
+      "id": "france-2027",
+      "title": "2027 French Presidential Election Winner",
+      "source": "Polymarket",
+      "url": "https://polymarket.com/event/next-french-presidential-election",
+      "volume": "$141.8M",
+      "outcomes": [
+        {
+          "name": "Marine Le Pen",
+          "prob": 0.441
+        },
+        {
+          "name": "\u00c9douard Philippe",
+          "prob": 0.195
+        },
+        {
+          "name": "Jean-Luc M\u00e9lenchon",
+          "prob": 0.125
+        },
+        {
+          "name": "David Lisnard",
+          "prob": 0.077
+        },
+        {
+          "name": "Fran\u00e7ois Hollande",
+          "prob": 0.053
+        }
+      ],
+      "note": "Apr 2027. Live Polymarket ~Oct 2, 2026 CT."
+    },
+    {
+      "id": "zelenskyy-out-by-2027",
+      "title": "Zelenskyy out as Ukraine president by end of 2026?",
+      "source": "Polymarket",
+      "url": "https://polymarket.com/event/zelenskyy-out-as-ukraine-president-before-2027",
+      "volume": "$3.4M",
+      "outcomes": [
+        {
+          "name": "Yes \u2014 by Dec 31, 2026",
+          "prob": 0.055
+        },
+        {
+          "name": "No",
+          "prob": 0.945
+        }
+      ],
+      "note": "Live Polymarket YE2026 market."
+    },
+    {
+      "id": "ecb-october-decision",
+      "title": "European Central Bank Decision in October?",
+      "source": "Polymarket",
+      "url": "https://polymarket.com/event/ecb-interest-rates-october-2026-20260723225848778",
+      "volume": "$336K",
+      "outcomes": [
+        {
+          "name": "No Change",
+          "prob": 0.905
+        },
+        {
+          "name": "25 bps Increase",
+          "prob": 0.105
+        }
+      ],
+      "note": "Thu Oct 29, 2026. Live Polymarket ~90.5% maintain / ~10.5% hike 25 bp."
+    },
+    {
+      "id": "hormuz-normal-by-ye2026",
+      "title": "Hormuz traffic normal by Dec 31?",
+      "source": "Polymarket",
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+      "volume": "$13.8M",
+      "outcomes": [
+        {
+          "name": "No",
+          "prob": 0.795
+        },
+        {
+          "name": "Yes",
+          "prob": 0.205
+        }
+      ],
+      "note": "Energy risk: Yahoo Fri AM Brent ~$99.97 / WTI ~$89.87 (spread ~$10). Crude flows recovering; diesel/refined still tight."
+    },
+    {
+      "id": "fomc-oct",
+      "title": "Fed decision \u2014 Oct 28\u201329 FOMC",
+      "source": "Polymarket",
+      "url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "volume": "$22.6M",
+      "outcomes": [
+        {
+          "name": "No change",
+          "prob": 0.815
+        },
+        {
+          "name": "Hike 25bp",
+          "prob": 0.185
+        },
+        {
+          "name": "Cut 25bp",
+          "prob": 0.0045
+        },
+        {
+          "name": "Hike 50bp+",
+          "prob": 0.0045
+        }
+      ],
+      "note": "Live Polymarket ~Oct 2 CT: no-change ~81.5% / hike 25bp ~18.5%. Soft Aug PCE keeps hold in the lead ahead of NFP."
+    },
+    {
+      "id": "uk-election-called",
+      "title": "UK election called by\u2026?",
+      "source": "Polymarket",
+      "url": "https://polymarket.com/event/uk-election-called-by",
+      "volume": "$835K",
+      "outcomes": [
+        {
+          "name": "By June 30, 2027",
+          "prob": 0.235
+        },
+        {
+          "name": "By Dec 31, 2026",
+          "prob": 0.075
+        }
+      ],
+      "note": "Only dated buckets with material Yes price; nearer dates ~0. Starmer term risk, not a full seat market."
+    },
+    {
+      "id": "fomc-another-2026",
+      "title": "Another Fed hike in 2026?",
+      "source": "Polymarket",
+      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
+      "volume": "$459K",
+      "outcomes": [
+        {
+          "name": "Yes",
+          "prob": 0.755
+        },
+        {
+          "name": "No",
+          "prob": 0.245
+        }
+      ],
+      "note": "Any hike after the Sep 16 decision through year-end FOMC."
+    },
+    {
+      "id": "nl-desk-note",
+      "title": "Netherlands \u2014 no live Polymarket race",
+      "source": "Desk",
+      "url": "https://polymarket.com/event/next-prime-minister-of-the-netherlands",
+      "outcomes": [
+        {
+          "name": "Last cycle: Rob Jetten PM",
+          "prob": 1.0
+        },
+        {
+          "name": "Coalition: VVD + CDA + D66",
+          "prob": 1.0
+        }
+      ],
+      "note": "Dutch PM market closed/resolved (Jetten 100%). Parliamentary seat boards exist but are post-election. Re-add when a live NL election or cabinet-odds board opens."
+    }
+  ]
+}

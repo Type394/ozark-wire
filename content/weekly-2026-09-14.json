@@ -1,0 +1,83 @@
+{
+  "type": "weekly",
+  "date": "2026-09-14",
+  "label": "SAMPLE",
+  "title": "Weekly Brief",
+  "prices": {
+    "btc": 93150,
+    "gold": 2658,
+    "wti": 69.80
+  },
+  "items": [
+    {
+      "n": 1,
+      "category": "MACRO",
+      "headline": "Week in rates: soft landing narrative reasserted, not proven",
+      "bullets": [
+        "Data this week favored a gradual cooling story — claims, retail, and inflation prints did not force an emergency pivot.",
+        "But credit spreads and small-cap underperformance keep a late-cycle caution flag up. Soft landing is a path, not a destination.",
+        "For hard assets: lower real-yield pressure is supportive for gold and, with a lag, for BTC as a liquidity sponge."
+      ]
+    },
+    {
+      "n": 2,
+      "category": "BTC",
+      "headline": "Bitcoin weekly: ETF plumbing quiet, miner margins still the swing factor",
+      "bullets": [
+        "Spot ETFs absorbed supply without drama; options skew moved from fear toward neutral as realized vol compressed.",
+        "Hashprice and energy costs remain the miner P&L hinge — weaker hashprice historically precedes occasional forced selling.",
+        "Sound-money frame: BTC continues to behave like digital collateral with a macro beta, not a meme. Position size accordingly."
+      ]
+    },
+    {
+      "n": 3,
+      "category": "GOLD",
+      "headline": "Metals week: official-sector demand still the floor",
+      "bullets": [
+        "Weekly physical flows into Asia stayed constructive; Western ETF flows mixed but not in liquidation mode.",
+        "Mining equities lagged bullion again — typical when the market prices gold as insurance, not a growth cycle.",
+        "Watch the next CB reserve updates; they remain more important than any single COMEX session."
+      ]
+    },
+    {
+      "n": 4,
+      "category": "GEO",
+      "headline": "Geopolitics week: energy chokepoints back on the front page",
+      "bullets": [
+        "Hormuz, Red Sea, and Black Sea corridors all carried elevated risk premia at some point this week — markets learned the map again.",
+        "Sanctions enforcement chatter rose; expect more gray-fleet friction stories into autumn.",
+        "Hard-asset implication: energy volatility is a feature of a multipolar map, not a one-off headline."
+      ]
+    },
+    {
+      "n": 5,
+      "category": "ENERGY",
+      "headline": "Crude weekly balance: inventory draws vs demand skepticism",
+      "bullets": [
+        "US inventory prints leaned constructive midweek, but China demand skepticism capped the rally.",
+        "OPEC+ discipline held in public messaging; private compliance stories remain mixed.",
+        "Winter distillate prep starts soon — that calendar matters more than today's WTI print."
+      ]
+    },
+    {
+      "n": 6,
+      "category": "TECH",
+      "headline": "AI power demand vs grid reality — CapEx still outrunning copper and transformers",
+      "bullets": [
+        "Hyperscaler CapEx guidance stayed aggressive; interconnection queues and transformer lead times are the binding constraints.",
+        "Implication for energy: baseload and firm power narratives strengthen; intermittent-only plans look thinner under AI load.",
+        "Secondary read for metals: copper and specialty electrical gear stay structurally bid even if equity multiples compress."
+      ]
+    },
+    {
+      "n": 7,
+      "category": "INTEL",
+      "headline": "Weekly intel note: information warfare around energy incidents intensifies",
+      "bullets": [
+        "Competing narratives around Gulf incidents arrived within hours of first footage — classic contested-information pattern.",
+        "Serious desks wait for geolocation, vessel AIS anomalies, and insurance market confirmation before upgrading confidence.",
+        "Rule for this wire: unverified clips stay labeled. Speed without verification is noise."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,834 @@
+{
+  "updated": "2026-10-02T11:05:00-05:00",
+  "title": "Ukraine",
+  "blurb": "",
+  "excludeNote": "Mainstream US/EU wires excluded except major WSJ/FT headlines. Desk maps: AMK / Rybar / Suriyak.",
+  "map": {
+    "asOf": "2026-10-02",
+    "source": "AMK Mapping · Rybar / Suriyak",
+    "sourceUrl": "https://x.com/AMK_Mapping_",
+    "telegramUrl": "https://t.me/AMK_Mapping",
+    "interactiveMapUrl": "https://www.google.com/maps/d/u/0/viewer?mid=1thW9kqnDOaS2lAepLhLdzSX8Ur9Sc4k",
+    "disclaimer": "Best-guess front line from Russia-friendly map desks (AMK Mapping @AMK_Mapping_, Rybar/TF Rodovka, Suriyak maps). Not official. Outline + contested line pulses.",
+    "viewBox": "0 0 900 600",
+    "outlinePath": "M483.6,36.4 L501.4,39.2 L513.5,23.3 L528.0,26.8 L577.6,20.0 L608.1,59.8 L596.2,74.0 L600.1,95.8 L638.2,99.2 L655.2,129.6 L654.2,143.5 L714.9,168.2 L751.6,157.0 L781.1,189.9 L809.0,189.2 L879.4,212.0 L880.0,232.6 L860.6,269.4 L871.2,308.1 L863.6,331.6 L817.4,336.7 L792.7,356.3 L791.2,387.5 L753.1,393.1 L721.3,415.9 L676.6,419.6 L635.4,445.7 L638.2,489.4 L661.6,506.4 L710.3,502.1 L701.0,527.2 L648.7,539.4 L583.8,580.0 L557.2,565.7 L567.7,532.7 L515.5,512.2 L524.0,498.7 L569.7,475.3 L555.9,459.3 L481.6,441.5 L478.3,415.3 L434.0,424.0 L416.3,462.6 L379.3,514.6 L357.6,502.5 L335.1,513.8 L313.8,500.9 L325.8,493.2 L334.2,469.1 L347.3,446.7 L343.9,434.2 L353.9,428.6 L358.6,438.3 L386.8,440.3 L399.4,435.1 L390.5,428.0 L393.9,417.6 L377.2,399.7 L370.3,370.3 L352.9,358.9 L356.3,335.1 L334.7,316.2 L315.1,313.5 L279.8,291.7 L248.1,298.6 L236.7,309.0 L216.5,308.9 L204.5,325.4 L169.2,332.1 L152.9,342.9 L130.7,325.7 L100.1,325.5 L70.5,317.7 L49.9,332.7 L46.5,313.9 L20.0,294.8 L29.3,266.5 L42.6,248.2 L53.0,252.3 L40.7,220.7 L84.1,162.3 L107.8,154.2 L112.9,134.5 L88.9,73.1 L111.7,70.4 L137.9,51.4 L174.9,49.8 L223.2,55.3 L276.6,72.2 L314.2,73.6 L332.2,83.7 L350.1,71.5 L362.6,87.9 L405.8,84.5 L424.8,91.3 L427.8,56.0 L442.6,40.6 L483.6,36.4 Z",
+    "bbox": {
+      "minLon": 22.085608,
+      "maxLon": 40.080789,
+      "minLat": 44.361479,
+      "maxLat": 52.335075
+    },
+    "project": {
+      "w": 900,
+      "h": 600,
+      "pad": 20
+    },
+    "frontline": [
+      [
+        618.1,
+        103.2
+      ],
+      [
+        632.4,
+        117.3
+      ],
+      [
+        661.1,
+        145.4
+      ],
+      [
+        704.1,
+        159.4
+      ],
+      [
+        728.0,
+        180.5
+      ],
+      [
+        751.9,
+        205.1
+      ],
+      [
+        766.2,
+        240.2
+      ],
+      [
+        773.4,
+        257.7
+      ],
+      [
+        766.2,
+        269.7
+      ],
+      [
+        768.6,
+        285.8
+      ],
+      [
+        749.5,
+        296.4
+      ],
+      [
+        742.3,
+        306.9
+      ],
+      [
+        737.5,
+        331.5
+      ],
+      [
+        713.7,
+        345.5
+      ],
+      [
+        680.2,
+        356.1
+      ],
+      [
+        646.7,
+        366.6
+      ],
+      [
+        608.5,
+        394.7
+      ],
+      [
+        565.5,
+        408.7
+      ],
+      [
+        536.8,
+        419.3
+      ],
+      [
+        512.9,
+        429.8
+      ]
+    ],
+    "frontlineLonLat": [
+      [
+        34.6,
+        51.15
+      ],
+      [
+        34.9,
+        50.95
+      ],
+      [
+        35.5,
+        50.55
+      ],
+      [
+        36.4,
+        50.35
+      ],
+      [
+        36.9,
+        50.05
+      ],
+      [
+        37.4,
+        49.7
+      ],
+      [
+        37.7,
+        49.2
+      ],
+      [
+        37.85,
+        48.95
+      ],
+      [
+        37.7,
+        48.78
+      ],
+      [
+        37.75,
+        48.55
+      ],
+      [
+        37.35,
+        48.4
+      ],
+      [
+        37.2,
+        48.25
+      ],
+      [
+        37.1,
+        47.9
+      ],
+      [
+        36.6,
+        47.7
+      ],
+      [
+        35.9,
+        47.55
+      ],
+      [
+        35.2,
+        47.4
+      ],
+      [
+        34.4,
+        47.0
+      ],
+      [
+        33.5,
+        46.8
+      ],
+      [
+        32.9,
+        46.65
+      ],
+      [
+        32.4,
+        46.5
+      ]
+    ],
+    "hotspots": [
+      {
+        "id": "kyiv",
+        "name": "Kyiv",
+        "lon": 30.52,
+        "lat": 50.45,
+        "note": "Dnieper bridges + energy hits",
+        "pulse": "strike",
+        "x": 423.1,
+        "y": 152.4
+      },
+      {
+        "id": "kharkiv-ne",
+        "name": "Kharkiv NE",
+        "lon": 36.5,
+        "lat": 50.3,
+        "note": "Cauldron / Battlegroup North",
+        "pulse": "hot",
+        "x": 708.9,
+        "y": 162.9
+      },
+      {
+        "id": "sumy",
+        "name": "Sumy",
+        "lon": 34.8,
+        "lat": 50.91,
+        "note": "Border push / Mala Rybytsia",
+        "pulse": "hot",
+        "x": 627.6,
+        "y": 120.1
+      },
+      {
+        "id": "kramatorsk",
+        "name": "Kramatorsk",
+        "lon": 37.58,
+        "lat": 48.74,
+        "note": "Front ~8 km after UA counterattacks (AMK)",
+        "pulse": "contested",
+        "x": 760.5,
+        "y": 272.5
+      },
+      {
+        "id": "dobropillia",
+        "name": "Dobropillia",
+        "lon": 37.08,
+        "lat": 48.35,
+        "note": "City destroyed (AMK Oct 2026)",
+        "pulse": "hot",
+        "x": 736.6,
+        "y": 299.9
+      },
+      {
+        "id": "pokrovsk",
+        "name": "Pokrovsk",
+        "lon": 37.18,
+        "lat": 48.28,
+        "note": "RU pressure / New Donbas line",
+        "pulse": "hot",
+        "x": 741.4,
+        "y": 304.8
+      },
+      {
+        "id": "orikhiv",
+        "name": "Orikhiv",
+        "lon": 35.79,
+        "lat": 47.57,
+        "note": "Zaporozhye axis / leaflets",
+        "pulse": "hot",
+        "x": 674.9,
+        "y": 354.7
+      },
+      {
+        "id": "kherson",
+        "name": "Dachi / Kherson",
+        "lon": 32.7,
+        "lat": 46.65,
+        "note": "UA Dnieper bridgehead (AMK)",
+        "pulse": "contested",
+        "x": 527.3,
+        "y": 419.3
+      }
+    ],
+    "notes": [
+      "AMK: Dobropillia completely destroyed (Oct 2026).",
+      "AMK: Kramatorsk front pulled from ~3 km to ~8 km after Ukrainian counterattacks.",
+      "TASS/MS: Battlegroup North — Nesterne, Rublene, Vysoka Yaruga claimed; Kharkiv NE pocket.",
+      "MS: Mala Rybytsia (Sumy) claimed fallen; Kyiv South/Patona bridges closed after Geran strikes.",
+      "AMK: UA reinforcing Dachi bridgehead (Oleshky / Antonovskiy)."
+    ]
+  },
+  "sources": [
+    {
+      "id": "tass",
+      "name": "TASS",
+      "url": "https://tass.com/",
+      "kind": "wire",
+      "major": true
+    },
+    {
+      "id": "tf-rodovka",
+      "name": "TF Rodovka",
+      "url": "https://t.me/s/rybar_in_english",
+      "kind": "maps",
+      "major": true,
+      "note": "Named desk maps source; Rybar EN / related Telegram war maps when Rodovka feed unavailable"
+    },
+    {
+      "id": "amk",
+      "name": "AMK Mapping",
+      "url": "https://x.com/AMK_Mapping_",
+      "kind": "maps",
+      "major": true,
+      "note": "Front-line map seed; Telegram t.me/AMK_Mapping"
+    },
+    {
+      "id": "duran",
+      "name": "The Duran",
+      "url": "https://theduran.com/",
+      "kind": "analysis",
+      "major": true
+    },
+    {
+      "id": "diesen",
+      "name": "Glenn Diesen",
+      "url": "https://www.youtube.com/@GDiesen1",
+      "kind": "analysis",
+      "major": true,
+      "note": "Greater Eurasia; regular Mercouris/Mearsheimer/Sachs guests"
+    },
+    {
+      "id": "sonar21",
+      "name": "Sonar21",
+      "url": "https://sonar21.com/",
+      "kind": "analysis",
+      "major": true,
+      "note": "Larry C. Johnson — NATO/Ukraine force and narrative critique"
+    },
+    {
+      "id": "antiwar",
+      "name": "Antiwar.com",
+      "url": "https://news.antiwar.com/",
+      "kind": "wire",
+      "major": true
+    },
+    {
+      "id": "horton",
+      "name": "Scott Horton",
+      "url": "https://scotthorton.org/",
+      "kind": "interview",
+      "major": true
+    },
+    {
+      "id": "anzalone",
+      "name": "Kyle Anzalone",
+      "url": "https://www.youtube.com/@KyleAnzalone",
+      "kind": "analysis",
+      "major": true
+    },
+    {
+      "id": "decamp",
+      "name": "Dave DeCamp",
+      "url": "https://www.youtube.com/@antiwarnews",
+      "kind": "wire",
+      "major": true
+    },
+    {
+      "id": "moa",
+      "name": "Moon of Alabama",
+      "url": "https://www.moonofalabama.org/",
+      "kind": "analysis",
+      "major": true
+    },
+    {
+      "id": "milsum",
+      "name": "Military Summary",
+      "url": "https://www.youtube.com/@militarysummary",
+      "kind": "sitrep",
+      "major": true
+    },
+    {
+      "id": "judge",
+      "name": "Judging Freedom",
+      "url": "https://www.youtube.com/@JudgingFreedom",
+      "kind": "interview",
+      "major": false,
+      "note": "Napolitano guests Mercouris cites"
+    },
+    {
+      "id": "rybar",
+      "name": "Rybar",
+      "url": "https://t.me/s/rybar_in_english",
+      "kind": "maps",
+      "major": false,
+      "note": "Related Telegram war maps"
+    },
+    {
+      "id": "wsj",
+      "name": "WSJ",
+      "url": "https://www.wsj.com/",
+      "kind": "mainstream",
+      "major": false,
+      "note": "Major headlines only"
+    },
+    {
+      "id": "ft",
+      "name": "FT",
+      "url": "https://www.ft.com/",
+      "kind": "mainstream",
+      "major": false,
+      "note": "Major headlines only"
+    }
+  ],
+  "items": [
+    {
+      "id": "amk-kramatorsk-2026-10-02",
+      "date": "2026-10-02",
+      "source": "AMK Mapping",
+      "sourceId": "amk",
+      "category": "MAP",
+      "headline": "Kramatorsk: frontline now ~8 km after Ukrainian counterattacks",
+      "summary": "AMK Mapping: after recent Ukrainian counterattacks on the Kramatorsk direction, the frontline — previously as close as ~3 km — is now about 8 km from the city. Entry into Kramatorsk unlikely for now.",
+      "url": "https://t.me/AMK_Mapping/38549",
+      "tags": [
+        "Kramatorsk",
+        "frontline"
+      ]
+    },
+    {
+      "id": "amk-dobropillia-2026-10-02",
+      "date": "2026-10-02",
+      "source": "AMK Mapping",
+      "sourceId": "amk",
+      "category": "MAP",
+      "headline": "Dobropillia completely destroyed — October 2026",
+      "summary": "AMK Mapping posts imagery/note that Dobropillia has been completely destroyed as fighting and strikes continue on the Pokrovsk–Dobropillia axis.",
+      "url": "https://t.me/AMK_Mapping/38546",
+      "tags": [
+        "Dobropillia",
+        "Pokrovsk"
+      ]
+    },
+    {
+      "id": "amk-kyiv-bridges-2026-10-02",
+      "date": "2026-10-02",
+      "source": "AMK Mapping",
+      "sourceId": "amk",
+      "category": "AIR",
+      "headline": "Kyiv: South + Patona bridges closed after Geran jet-drone strikes",
+      "summary": "Repeated overnight Geran-4/5 strikes on the South Bridge; traffic closed both ways on South and Patona; Metro Bridge partial closure. Large jams. MoD claim: rail bridge over Dnieper used for Donbas logistics; 750 kV Nalyvaikivka substation also hit.",
+      "url": "https://t.me/AMK_Mapping/38543",
+      "tags": [
+        "Kyiv",
+        "energy",
+        "bridges"
+      ]
+    },
+    {
+      "id": "tass-17-communities-2026-10-02",
+      "date": "2026-10-02",
+      "source": "TASS",
+      "sourceId": "tass",
+      "category": "FRONT",
+      "headline": "TASS: MoD claims 17 communities taken Sep 26–Oct 2",
+      "summary": "Russian Defense Ministry via TASS: 17 communities liberated across Kharkov, Sumy, Zaporozhye and DPR over the week, including three in the past day. Battlegroup North cited on Kharkov encirclement; precision/UAV strikes on logistics and power.",
+      "url": "https://tass.com/politics/2196769",
+      "tags": [
+        "MoD",
+        "Kharkov",
+        "Sumy"
+      ]
+    },
+    {
+      "id": "tass-peskov-black-sea-2026-10-02",
+      "date": "2026-10-02",
+      "source": "TASS",
+      "sourceId": "tass",
+      "category": "DIPLO",
+      "headline": "Peskov: lasting peace not ceasefire; Black Sea price for strikes",
+      "summary": "Kremlin spokesman: Russia needs peace not a ceasefire; piecemeal deals won't settle; Ukraine 'must pay' for Black Sea strikes and is already paying as Moscow targets sea logistics.",
+      "url": "https://tass.com/politics/2196495",
+      "tags": [
+        "Kremlin",
+        "Black Sea"
+      ]
+    },
+    {
+      "id": "tass-infra-factbox-2026-10-02",
+      "date": "2026-10-02",
+      "source": "TASS",
+      "sourceId": "tass",
+      "category": "AIR",
+      "headline": "FACTBOX: MoD lists Kyiv bridge, Nalyvaikivka substation, Izmail port hits",
+      "summary": "TASS factbox of claimed strikes: Dnieper road-rail bridge in Kyiv, Kievskaya electrical substation at Nalivaykovka, Izmail port industrial complex, and a cargo ship in the Black Sea. Kyiv city closed multiple bridges to traffic.",
+      "url": "https://tass.com/politics/2196507",
+      "tags": [
+        "infrastructure",
+        "Odessa"
+      ]
+    },
+    {
+      "id": "ms-2026-10-02",
+      "date": "2026-10-02",
+      "source": "Military Summary",
+      "sourceId": "milsum",
+      "category": "SITREP",
+      "headline": "MS 10.02: 'No more rules' air campaign — bridges, Sumy, Kharkiv pocket",
+      "summary": "Military Summary sitrep: Zelensky intel claim Putin lifts air-campaign restrictions; South Bridge hits and Kyiv gridlock; 750 kV substation; Kostopil/Pavlohrad; Mala Rybytsia (Sumy) claimed fallen; flag over Vysoka Yaruga; Kharkiv cauldron narrative.",
+      "url": "https://www.youtube.com/watch?v=h8IGIMkrXb8",
+      "tags": [
+        "sitrep",
+        "air"
+      ]
+    },
+    {
+      "id": "anzalone-nuke-shorts-2026-10-02",
+      "date": "2026-10-02",
+      "source": "Kyle Anzalone",
+      "sourceId": "anzalone",
+      "category": "ANALYSIS",
+      "headline": "Anzalone: Russia's nuclear threats — is NATO provoking war?",
+      "summary": "Kyle Anzalone Show short on Russian nuclear signaling and NATO escalation risk — Mercouris-adjacent antiwar framing on the European theater.",
+      "url": "https://www.youtube.com/@KyleAnzalone",
+      "tags": [
+        "nuclear",
+        "NATO"
+      ]
+    },
+    {
+      "id": "moa-ukraine-thread-2026-10-02",
+      "date": "2026-10-02",
+      "source": "Moon of Alabama",
+      "sourceId": "moa",
+      "category": "ANALYSIS",
+      "headline": "Moon of Alabama: Ukraine Open Thread 2026-215",
+      "summary": "b's open thread for Ukraine war news & views — standing Mercouris-cited blog for attrition/diplomacy commentary.",
+      "url": "https://www.moonofalabama.org/2026/10/ukraine-open-thread-2026-215.html",
+      "tags": [
+        "MoA"
+      ]
+    },
+    {
+      "id": "ft-rules-2026-10-02",
+      "date": "2026-10-02",
+      "source": "FT",
+      "sourceId": "ft",
+      "category": "FT",
+      "headline": "FT (via Zelenskyy): Putin told military to abandon 'rules of war'",
+      "summary": "Major FT-circulated headline only: Zelenskyy claims Putin ordered abandonment of wartime restrictions — paired on desk with MS 'no more rules' air-campaign framing. Mainstream exception.",
+      "url": "https://www.ft.com/ukraine",
+      "tags": [
+        "FT",
+        "headline"
+      ]
+    },
+    {
+      "id": "diesen-sachs-2026-10-02",
+      "date": "2026-10-02",
+      "source": "Glenn Diesen",
+      "sourceId": "diesen",
+      "category": "ANALYSIS",
+      "headline": "Diesen × Sachs: Ukraine peace proposal vs NATO salami tactics",
+      "summary": "Glenn Diesen hosts Jeffrey Sachs on peace terms versus incremental NATO escalation — desk lens: negotiate neutrality/limits, don’t salami-slice Russia into a wider war.",
+      "url": "https://www.youtube.com/watch?v=zpzVnVbohWg",
+      "tags": [
+        "Diesen",
+        "Sachs",
+        "NATO",
+        "negotiations"
+      ]
+    },
+    {
+      "id": "horton-provoked-frame",
+      "date": "2026-10-02",
+      "source": "Scott Horton",
+      "sourceId": "horton",
+      "category": "FRAME",
+      "headline": "Desk frame: Horton’s Provoked — NATO expansion made this war",
+      "summary": "Standing shelf: Provoked: How Washington Started the New Cold War with Russia and the Catastrophe in Ukraine. Desk voice starts from broken assurances / NATO creep / proxy design — not “unprovoked.”",
+      "url": "https://libertarianinstitute.org/books/provoked-how-washington-started-the-new-cold-war-with-russia-and-the-catastrophe-in-ukraine/",
+      "tags": [
+        "Provoked",
+        "NATO",
+        "frame"
+      ]
+    },
+    {
+      "id": "ms-nesterne-2026-10-01",
+      "date": "2026-10-01",
+      "source": "Military Summary",
+      "sourceId": "milsum",
+      "category": "FRONT",
+      "headline": "MS: Nesterne, Rublene & Vysoka Yaruha claimed fallen",
+      "summary": "Short MS update aligning with TASS Battlegroup North claims on three Kharkiv-region settlements inside/near the northeastern pocket.",
+      "url": "https://www.youtube.com/shorts/ugi-vbTYrBQ",
+      "tags": [
+        "Kharkiv"
+      ]
+    },
+    {
+      "id": "decamp-2026-10-01",
+      "date": "2026-10-01",
+      "source": "Dave DeCamp",
+      "sourceId": "decamp",
+      "category": "WIRE",
+      "headline": "Antiwar News w/ DeCamp: Senate kills Israel-US citizens report bill + Somalia strikes",
+      "summary": "Daily DeCamp wire (Antiwar News). Desk keeps DeCamp as major Ukraine-adjacent foreign-policy wire even when lead package is ME/Africa — scan for Ukraine bullets each morning.",
+      "url": "https://www.youtube.com/watch?v=aWqtL9ihqg4",
+      "tags": [
+        "DeCamp"
+      ]
+    },
+    {
+      "id": "judge-intel-2026-10-01",
+      "date": "2026-10-01",
+      "source": "Judging Freedom",
+      "sourceId": "judge",
+      "category": "INTERVIEW",
+      "headline": "Judging Freedom: INTEL roundtable w/ Larry Johnson & Joe Kent (week wrap)",
+      "summary": "Napolitano week-wrap intel panel — desk watches for Ukraine/Russia threads among ME items; Mercouris regularly cites this guest circle.",
+      "url": "https://www.youtube.com/watch?v=7Qdm4EiItsM",
+      "tags": [
+        "Napolitano",
+        "intel"
+      ]
+    },
+    {
+      "id": "rybar-costly-2026-10-01",
+      "date": "2026-10-01",
+      "source": "TF Rodovka",
+      "sourceId": "tf-rodovka",
+      "category": "MAP",
+      "headline": "TF Rodovka / Rybar EN: 'Costly Affair' — strike campaign vs Ukrainian economy",
+      "summary": "Named maps desk (TF Rodovka); seed from Rybar in English digest arguing concrete figures on effectiveness of strikes against Ukrainian economic/energy targets. Use Rodovka posts when fetchable; else Rybar-related Telegram war maps.",
+      "url": "https://t.me/rybar_in_english/34729",
+      "tags": [
+        "maps",
+        "economy"
+      ]
+    },
+    {
+      "id": "wsj-ballistic-headline",
+      "date": "2026-10-01",
+      "source": "WSJ",
+      "sourceId": "wsj",
+      "category": "WSJ",
+      "headline": "WSJ: Ukraine fires hard-to-stop ballistic missile for first time",
+      "summary": "Major WSJ headline only (desk exception): Ukraine's first reported use of a hard-to-intercept ballistic missile — capability note, not full WSJ reprint.",
+      "url": "https://www.wsj.com/world/europe/ukraine-fires-hard-to-stop-ballistic-missile-for-first-time-d93138b4",
+      "tags": [
+        "WSJ",
+        "missile"
+      ]
+    },
+    {
+      "id": "sonar-not-collapsing",
+      "date": "2026-10-01",
+      "source": "Sonar21",
+      "sourceId": "sonar21",
+      "category": "ANALYSIS",
+      "headline": "Sonar21: Russia is not collapsing — reply to Con Coughlin",
+      "summary": "Pushback on Telegraph-style “Russia collapsing” copy — desk keeps Sonar21 as the anti-Atlanticist force/narrative check alongside AMK maps and TASS wires.",
+      "url": "https://sonar21.com/russia-is-not-collapsing-a-reply-to-con-coughlin/",
+      "tags": [
+        "Sonar21",
+        "narrative"
+      ]
+    },
+    {
+      "id": "duran-sky-2026-09-30",
+      "date": "2026-09-30",
+      "source": "The Duran",
+      "sourceId": "duran",
+      "category": "ANALYSIS",
+      "headline": "The Duran: Russia's sky campaign isolating Kiev and Odessa",
+      "summary": "Mercouris/Christoforou: methodical isolation of Kyiv — ports, rail, internet/comms — compared to 1991 Iraq air campaign; pressure on Odessa logistics and capital livability.",
+      "url": "https://www.youtube.com/watch?v=Rz7eXAUMOdc",
+      "tags": [
+        "Mercouris",
+        "Kyiv",
+        "Odessa"
+      ]
+    },
+    {
+      "id": "sonar-fires-home-front",
+      "date": "2026-09-29",
+      "source": "Sonar21",
+      "sourceId": "sonar21",
+      "category": "ANALYSIS",
+      "headline": "Sonar21: Europe defense-plant fires — what they mean for Ukraine",
+      "summary": "Johnson on European defense-industrial incidents as a rear-area signal while the Ukraine proxy consumes munitions NATO cannot replace at wartime tempo.",
+      "url": "https://sonar21.com/fires-on-the-home-front-what-europes-defense-plant-incidents-could-mean-for-the-war-in-ukraine/",
+      "tags": [
+        "Sonar21",
+        "Europe",
+        "industry"
+      ]
+    },
+    {
+      "id": "duran-orekhov-2026-09-29",
+      "date": "2026-09-29",
+      "source": "The Duran",
+      "sourceId": "duran",
+      "category": "ANALYSIS",
+      "headline": "Duran Substack: Orekhov surrender leaflets; Kiev strikes; Lyman claims disputed",
+      "summary": "Alex Christoforou/Mercouris: RU leaflets on Orikhiv pocket; central Kiev strikes; skepticism of Biletsky Lyman 'success'; rasputitsa risk; Geran-5 / Oreshnik rumors.",
+      "url": "https://theduran.substack.com/p/russia-tells-orekhov-troops-surrender",
+      "tags": [
+        "Orikhiv",
+        "Lyman"
+      ]
+    },
+    {
+      "id": "diesen-johnson-2026-09-29",
+      "date": "2026-09-29",
+      "source": "Glenn Diesen",
+      "sourceId": "diesen",
+      "category": "ANALYSIS",
+      "headline": "Diesen × Larry Johnson: Europe–Russia war now “inevitable”?",
+      "summary": "Sonar21’s Larry Johnson on Diesen’s show arguing European escalation paths toward direct confrontation with Russia as the Ukraine proxy strategy fails.",
+      "url": "https://www.youtube.com/watch?v=mHnVs0oWv74",
+      "tags": [
+        "Diesen",
+        "Johnson",
+        "Europe"
+      ]
+    },
+    {
+      "id": "sonar-moscow-door",
+      "date": "2026-09-28",
+      "source": "Sonar21",
+      "sourceId": "sonar21",
+      "category": "ANALYSIS",
+      "headline": "Sonar21: Moscow closes the door — Putin/Lavrov harden Ukraine line",
+      "summary": "Larry Johnson: ten-day hardening of Russian terms — no cheap ceasefire; West still selling pause narratives while Moscow prices in NATO as combatant/interlocutor.",
+      "url": "https://sonar21.com/moscow-closes-the-door-how-putin-and-lavrov-hardened-russias-line-on-ukraine-in-ten-days/",
+      "tags": [
+        "Sonar21",
+        "Lavrov",
+        "negotiations"
+      ]
+    },
+    {
+      "id": "duran-krapivnik-2026-09-27",
+      "date": "2026-09-27",
+      "source": "The Duran",
+      "sourceId": "duran",
+      "category": "ANALYSIS",
+      "headline": "Ukraine front: three cauldrons & Trump's false hope w/ Krapivnik",
+      "summary": "Stanislav Krapivnik on The Duran: multiple cauldron narratives on the Ukrainian front and skepticism toward ceasefire/peace framing from Washington.",
+      "url": "https://www.youtube.com/watch?v=9BUaxYm2cDU",
+      "tags": [
+        "cauldrons"
+      ]
+    },
+    {
+      "id": "diesen-beebe-2026-09-25",
+      "date": "2026-09-25",
+      "source": "Glenn Diesen",
+      "sourceId": "diesen",
+      "category": "ANALYSIS",
+      "headline": "Diesen × Beebe: NATO lost Ukraine & Europe prepares for war",
+      "summary": "Former CIA Russia analysis chief George Beebe with Diesen: Western strategy failing to weaken Russia; risk that capitals escalate rather than reassess — Provoked/Duran-adjacent realism.",
+      "url": "https://www.youtube.com/watch?v=HrgVTdBvSpI",
+      "tags": [
+        "Diesen",
+        "Beebe",
+        "NATO"
+      ]
+    },
+    {
+      "id": "diesen-mercouris-2026-09-23",
+      "date": "2026-09-23",
+      "source": "Glenn Diesen",
+      "sourceId": "diesen",
+      "category": "ANALYSIS",
+      "headline": "Diesen × Mercouris: Germany & Russia vote — Europe’s war fever",
+      "summary": "Mercouris on Greater Eurasia with Diesen: European war fever, German/Russian political signals, and the Duran line that NATO euphoria flips to escalation panic as the attrition war turns.",
+      "url": "https://www.youtube.com/watch?v=x1qwAMRnOUE",
+      "tags": [
+        "Diesen",
+        "Mercouris",
+        "attrition"
+      ]
+    },
+    {
+      "id": "antiwar-1000-drones-2026-09-20",
+      "date": "2026-09-20",
+      "source": "Antiwar.com",
+      "sourceId": "antiwar",
+      "category": "WIRE",
+      "headline": "Antiwar: Ukraine launches 1,000+ drones in 'largest attack' on Moscow",
+      "summary": "news.antiwar.com: Ukraine's mass drone strike framed as among the largest attacks aimed at Moscow/Russia deep rear — part of ongoing reciprocal energy/infrastructure campaign.",
+      "url": "https://news.antiwar.com/2026/09/20/ukraine-launches-over-1000-drones-into-russia-as-part-of-largest-attack-on-moscow/",
+      "tags": [
+        "drones",
+        "Moscow"
+      ]
+    },
+    {
+      "id": "horton-aris-2026-09-19",
+      "date": "2026-09-19",
+      "source": "Scott Horton",
+      "sourceId": "horton",
+      "category": "INTERVIEW",
+      "headline": "Scott Horton Show: Ben Aris deep-dive on the state of the Ukraine war",
+      "summary": "Horton interviews Ben Aris on Russian society, the evolving war, and barriers to peace — desk's recent long-form Ukraine interview on the Horton feed.",
+      "url": "https://scotthorton.org/interviews/9-19-26-ben-aris-a-deep-dive-on-the-state-of-the-war-in-ukraine/",
+      "tags": [
+        "Horton",
+        "Aris"
+      ]
+    },
+    {
+      "id": "antiwar-energy-2026-09-15",
+      "date": "2026-09-15",
+      "source": "Antiwar.com",
+      "sourceId": "antiwar",
+      "category": "WIRE",
+      "headline": "Antiwar: energy-site attacks continue despite Trump 'stop' claim",
+      "summary": "Dave DeCamp desk: Ukraine and Russia keep hitting energy sites after Trump claimed both sides agreed to halt such attacks — ceasefire narrative vs tape.",
+      "url": "https://news.antiwar.com/2026/09/15/ukraine-and-russia-continue-attacks-on-energy-sites-despite-trump-claiming-they-agreed-to-stop/",
+      "tags": [
+        "energy",
+        "Trump"
+      ]
+    }
+  ],
+  "frame": {
+    "lens": "realist",
+    "anchors": [
+      {
+        "name": "Scott Horton — Provoked",
+        "url": "https://libertarianinstitute.org/books/provoked-how-washington-started-the-new-cold-war-with-russia-and-the-catastrophe-in-ukraine/",
+        "note": "How Washington started the New Cold War with Russia and the catastrophe in Ukraine — NATO expansion, broken assurances, proxy design."
+      },
+      {
+        "name": "The Duran",
+        "url": "https://theduran.com/",
+        "note": "Mercouris/Christoforou: multipolar realism, attrition over PR, skeptical of Western negotiating bad faith."
+      }
+    ],
+    "excludeFraming": "",
+    "copy": ""
+  }
+}

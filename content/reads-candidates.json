@@ -1,0 +1,2157 @@
+[
+  {
+    "title": "12 Rules for Life: An Antidote to Chaos",
+    "include": false,
+    "author": "Jordan B. Peterson, Ethan Van Sciver, Norman Doidge"
+  },
+  {
+    "title": "1931: Debt, Crisis, and the Rise of Hitler",
+    "include": false,
+    "author": "Tobias Straumann"
+  },
+  {
+    "title": "1984: New Classic Edition",
+    "include": true,
+    "author": "George Orwell"
+  },
+  {
+    "title": "90 Minutes at Entebbe: The Full Inside Story of the Spectacular Israeli Counterterrorism Strike and the Daring Rescue of 103 Hostages",
+    "include": false,
+    "author": "William Stevenson, Uri Dan"
+  },
+  {
+    "title": "A Covert Action: Reagan, the CIA, and the Cold War Struggle in Poland",
+    "include": true,
+    "author": "Seth G. Jones"
+  },
+  {
+    "title": "A Legacy of Spies: A Novel",
+    "include": false,
+    "author": "John le Carré"
+  },
+  {
+    "title": "A Murder of Quality: A George Smiley Novel",
+    "include": false,
+    "author": "John le Carré"
+  },
+  {
+    "title": "A Plague upon Our House: My Fight at the Trump White House to Stop COVID from Destroying America",
+    "include": false,
+    "author": "Scott W. Atlas MD"
+  },
+  {
+    "title": "A Random Walk Down Wall Street: A Time-Tested Strategy for Successful Investing (Eleventh Edition)",
+    "include": false,
+    "author": "Burton G. Malkiel"
+  },
+  {
+    "title": "A River in Darkness: One Man's Escape from North Korea",
+    "include": false,
+    "author": "Masaji Ishikawa, Risa Kobayashi, Martin Brown"
+  },
+  {
+    "title": "A Small Town in Germany",
+    "include": false,
+    "author": "John le Carré"
+  },
+  {
+    "title": "A Spy Among Friends: Kim Philby and the Great Betrayal",
+    "include": false,
+    "author": "Ben Macintyre, John le Carré"
+  },
+  {
+    "title": "A Tale of Two Cities [Tantor]",
+    "include": false,
+    "author": "Charles Dickens"
+  },
+  {
+    "title": "A Thousand Lives: The Untold Story of Hope, Deception, and Survival at Jonestown",
+    "include": false,
+    "author": "Julia Scheeres"
+  },
+  {
+    "title": "Against the Gods: The Remarkable Story of Risk",
+    "include": true,
+    "author": "Peter L. Bernstein"
+  },
+  {
+    "title": "Agent Zigzag: A True Story of Nazi Espionage, Love, and Betrayal",
+    "include": false,
+    "author": "Ben Macintyre"
+  },
+  {
+    "title": "Alexander Hamilton",
+    "include": false,
+    "author": "Ron Chernow"
+  },
+  {
+    "title": "All the King's Men",
+    "include": false,
+    "author": "Robert Penn Warren"
+  },
+  {
+    "title": "All the Light We Cannot See: A Novel",
+    "include": false,
+    "author": "Anthony Doerr"
+  },
+  {
+    "title": "All the Pretty Horses: The Border Trilogy, Book One",
+    "include": false,
+    "author": "Cormac McCarthy"
+  },
+  {
+    "title": "Alone: Britain, Churchill, and Dunkirk: Defeat into Victory",
+    "include": false,
+    "author": "Michael Korda"
+  },
+  {
+    "title": "America's Great Depression",
+    "author": "Murray N. Rothbard",
+    "include": true,
+    "source": "manual"
+  },
+  {
+    "title": "American Betrayal: The Secret Assault on Our Nation’s Character",
+    "include": true,
+    "author": "Diana West"
+  },
+  {
+    "title": "American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer",
+    "include": false,
+    "author": "Kai Bird, Martin J. Sherwin"
+  },
+  {
+    "title": "American Ulysses: A Life of Ulysses S. Grant",
+    "include": false,
+    "author": "Ronald C. White"
+  },
+  {
+    "title": "Anatomy of the State",
+    "author": "Murray N. Rothbard",
+    "include": true,
+    "source": "manual"
+  },
+  {
+    "title": "And the Sea Will Tell",
+    "include": false,
+    "author": "Vincent Bugliosi, Bruce Henderson - contributor"
+  },
+  {
+    "title": "Animal Farm",
+    "include": true,
+    "author": "George Orwell"
+  },
+  {
+    "title": "Anna Karenina",
+    "include": false,
+    "author": "Leo Tolstoy"
+  },
+  {
+    "title": "Apollo 13",
+    "include": false,
+    "author": "Jim Lovell, Jeffrey Kluger"
+  },
+  {
+    "title": "Around the World in 80 Days",
+    "include": false,
+    "author": "Michael Palin"
+  },
+  {
+    "title": "At the Devil's Table: The Untold Story of the Insider Who Brought Down the Cali Cartel",
+    "include": false,
+    "author": "William C. Rempel"
+  },
+  {
+    "title": "Atlas Shrugged",
+    "include": false,
+    "author": "Ayn Rand"
+  },
+  {
+    "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+    "include": false,
+    "author": "James Clear"
+  },
+  {
+    "title": "AWOL on the Appalachian Trail",
+    "include": false,
+    "author": "David Miller"
+  },
+  {
+    "title": "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
+    "include": false,
+    "author": "John Carreyrou"
+  },
+  {
+    "title": "Ball of Collusion: The Plot to Rig an Election and Destroy a Presidency",
+    "include": false,
+    "author": "Andrew C. McCarthy"
+  },
+  {
+    "title": "Behold a Pale Horse",
+    "author": "Milton William Cooper",
+    "include": true,
+    "source": "manual"
+  },
+  {
+    "title": "Bellevue: Three Centuries of Medicine and Mayhem at America's Most Storied Hospital",
+    "include": false,
+    "author": "David Oshinsky"
+  },
+  {
+    "title": "Best of Enemies: The Last Great Spy Story of the Cold War",
+    "include": false,
+    "author": "Gus Russo, Eric Dezenhall"
+  },
+  {
+    "title": "Betrayal: The Crisis in the Catholic Church: The findings of the investigation that inspired the major motion picture Spotlight",
+    "include": false,
+    "author": "The Investigative Staff of the Boston Globe"
+  },
+  {
+    "title": "Billion Dollar Whale: The Man Who Fooled Wall Street, Hollywood, and the World",
+    "include": false,
+    "author": "Bradley Hope, Tom Wright"
+  },
+  {
+    "title": "Bitcoin is Venice: Essays on the Past and Future of Capitalism",
+    "include": false,
+    "author": "Allen Farrington, Sacha Meyers"
+  },
+  {
+    "title": "Blackout: How Black America Can Make Its Second Escape from the Democrat Plantation",
+    "include": false,
+    "author": "Candace Owens, Larry Elder"
+  },
+  {
+    "title": "Blood in the Water: The Attica Prison Uprising of 1971 and Its Legacy",
+    "include": false,
+    "author": "Heather Ann Thompson"
+  },
+  {
+    "title": "Blood Meridian: Or the Evening Redness in the West",
+    "include": false,
+    "author": "Cormac McCarthy"
+  },
+  {
+    "title": "Blood Sport: The President and His Adversaries",
+    "include": false,
+    "author": "James B. Stewart"
+  },
+  {
+    "title": "Blood Will Out: The True Story of a Murder, a Mystery, and a Masquerade",
+    "include": false,
+    "author": "Walter Kirn"
+  },
+  {
+    "title": "Blowback: The Untold Story of the FBI and the Oklahoma City Bombing",
+    "include": true,
+    "author": "Margaret Roberts"
+  },
+  {
+    "title": "Brave New World",
+    "include": false,
+    "author": "Aldous Huxley"
+  },
+  {
+    "title": "Breaking the News: Exposing the Establishment Media's Hidden Deals and Secret Corruption",
+    "include": false,
+    "author": "Alex Marlow"
+  },
+  {
+    "title": "Brideshead Revisited",
+    "include": false,
+    "author": "Evelyn Waugh"
+  },
+  {
+    "title": "Bridge of Spies: A True Story of the Cold War",
+    "include": false,
+    "author": "Giles Whittell"
+  },
+  {
+    "title": "Broken (in the best possible way)",
+    "include": false,
+    "author": "Jenny Lawson"
+  },
+  {
+    "title": "Broken Money: Why Our Financial System Is Failing Us and How We Can Make It Better",
+    "include": true,
+    "author": "Lyn Alden"
+  },
+  {
+    "title": "Bronze Age Mindset",
+    "include": false,
+    "author": "Bronze Age Pervert"
+  },
+  {
+    "title": "Bubble in the Sun: The Florida Boom of the 1920s and How It Brought on the Great Depression",
+    "include": false,
+    "author": "Christopher Knowlton"
+  },
+  {
+    "title": "Buckley: William F. Buckley Jr. and the Rise of American Conservatism",
+    "include": false,
+    "author": "Carl T. Bogus"
+  },
+  {
+    "title": "Building 7",
+    "include": false,
+    "author": "Michael Burns"
+  },
+  {
+    "title": "Butcher, Baker: The True Account of an Alaskan Serial Killer",
+    "include": false,
+    "author": "Walter Gilmour, Leland E. Hale"
+  },
+  {
+    "title": "Call for the Dead: A George Smiley Novel",
+    "include": false,
+    "author": "John le Carré"
+  },
+  {
+    "title": "Capitalism and Freedom, Fortieth Anniversary Edition",
+    "include": false,
+    "author": "Milton Friedman, Rose D. Friedman, Grover Gardner - prologue"
+  },
+  {
+    "title": "Casino Moscow: A Tale of Greed and Adventure on Capitalism's Wildest Frontier",
+    "include": false,
+    "author": "Matthew Brzezinski"
+  },
+  {
+    "title": "Centennial: A Novel",
+    "include": false,
+    "author": "James A. Michener"
+  },
+  {
+    "title": "Central Banking 101",
+    "include": false,
+    "author": "Joseph J Wang"
+  },
+  {
+    "title": "Chaos: Charles Manson, the CIA, and the Secret History of the Sixties",
+    "include": true,
+    "author": "Tom O'Neill, Dan Piepenbring"
+  },
+  {
+    "title": "Check Your Financial Privilege",
+    "include": false,
+    "author": "Alex Gladstein"
+  },
+  {
+    "title": "Child of God",
+    "include": false,
+    "author": "Cormac McCarthy"
+  },
+  {
+    "title": "Clinton Bush and CIA Conspiracies: From The Boys on the Tracks to Jeffrey Epstein: War on Drugs, Book 4",
+    "include": false,
+    "author": "Shaun Attwood"
+  },
+  {
+    "title": "Columbine",
+    "include": false,
+    "author": "Dave Cullen"
+  },
+  {
+    "title": "Coming Apart: The State of White America, 1960–2010",
+    "include": false,
+    "author": "Charles Murray"
+  },
+  {
+    "title": "Command and Control: Nuclear Weapons, the Damascus Accident, and the Illusion of Safety",
+    "include": false,
+    "author": "Eric Schlosser"
+  },
+  {
+    "title": "Common Sense on Mutual Funds: Fully Updated 10th Anniversary Edition",
+    "include": false,
+    "author": "John C Bogle"
+  },
+  {
+    "title": "Condominium: A Novel",
+    "include": false,
+    "author": "John D. MacDonald"
+  },
+  {
+    "title": "Confessions of an Economic Hit Man",
+    "author": "John Perkins",
+    "include": true,
+    "source": "manual"
+  },
+  {
+    "title": "Congo Mercenary",
+    "include": false,
+    "author": "Mike Hoare"
+  },
+  {
+    "title": "Covert Regime Change: America's Secret Cold War: Cornell Studies in Security Affairs",
+    "include": true,
+    "author": "Lindsey A. O'Rourke"
+  },
+  {
+    "title": "COVID-19 and the Global Predators: We Are the Prey",
+    "include": false,
+    "author": "Peter Roger Breggin, Ginger Breggin"
+  },
+  {
+    "title": "Crime and Punishment",
+    "include": false,
+    "author": "Fyodor Dostoevsky, Constance Garnett"
+  },
+  {
+    "title": "Crimea",
+    "include": false,
+    "author": "Orlando Figes"
+  },
+  {
+    "title": "Cynical Theories: How Activist Scholarship Made Everything About Race, Gender, and Identity - and Why This Harms Everybody",
+    "include": false,
+    "author": "Helen Pluckrose, James Lindsay"
+  },
+  {
+    "title": "Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion",
+    "include": true,
+    "author": "Gary Webb"
+  },
+  {
+    "title": "Day of Deceit: The Truth About FDR and Pearl Harbor",
+    "author": "Robert B. Stinnett",
+    "include": true,
+    "source": "manual"
+  },
+  {
+    "title": "Dead in the Water: A True Story of Hijacking, Murder, and a Global Maritime Conspiracy",
+    "include": false,
+    "author": "Matthew Campbell, Kit Chellel"
+  },
+  {
+    "title": "Dead in the Water: The book that inspired the new major Amazon Prime series",
+    "include": false,
+    "author": "Penny Farmer"
+  },
+  {
+    "title": "Dead Mountain: The Untold True Story of the Dyatlov Pass Incident",
+    "include": false,
+    "author": "Donnie Eichar"
+  },
+  {
+    "title": "Dead Run: The Murder of a Lawman and the Greatest Manhunt of the Modern American West",
+    "include": false,
+    "author": "Dan Schultz"
+  },
+  {
+    "title": "Dead Wake: The Last Crossing of the Lusitania",
+    "include": false,
+    "author": "Erik Larson"
+  },
+  {
+    "title": "Democracy: The God That Failed: The Economics and Politics of Monarchy, Democracy and Natural Order (Perspectives on Democratic Practice)",
+    "include": true,
+    "author": "Hans-Hermann Hoppe"
+  },
+  {
+    "title": "Demon Copperhead: A Novel",
+    "include": false,
+    "author": "Barbara Kingsolver"
+  },
+  {
+    "title": "Den of Thieves",
+    "include": false,
+    "author": "James B. Stewart"
+  },
+  {
+    "title": "Destiny Betrayed, Second Edition: JFK, Cuba, and the Garrison Case",
+    "include": false,
+    "author": "James DiEugenio"
+  },
+  {
+    "title": "Deviant: The Shocking True Story of Ed Gein, the Original \"Psycho\"",
+    "include": false,
+    "author": "Harold Schechter"
+  },
+  {
+    "title": "Devil Take the Hindmost: A History of Financial Speculation",
+    "include": false,
+    "author": "Edward Chancellor"
+  },
+  {
+    "title": "DisneyWar",
+    "include": false,
+    "author": "James B. Stewart"
+  },
+  {
+    "title": "Dispatches",
+    "include": false,
+    "author": "Michael Herr"
+  },
+  {
+    "title": "Dopesick: Dealers, Doctors, and the Drug Company that Addicted America",
+    "include": false,
+    "author": "Beth Macy"
+  },
+  {
+    "title": "Double Whammy",
+    "include": false,
+    "author": "Carl Hiaasen"
+  },
+  {
+    "title": "Dr. Mary's Monkey: How the Unsolved Murder of a Doctor, a Secret Laboratory in New Orleans and Cancer-Causing Monkey Viruses Are Linked to Lee Harvey Oswald, the JFK Assassination, and Emerging Global",
+    "include": true,
+    "author": "Edward T. Haslam"
+  },
+  {
+    "title": "Dreamland: The True Tale of America's Opiate Epidemic",
+    "include": false,
+    "author": "Sam Quinones"
+  },
+  {
+    "title": "Dynasty: The Rise and Fall of the House of Caesar",
+    "include": false,
+    "author": "Tom Holland"
+  },
+  {
+    "title": "Endgame: Bobby Fischer’s Remarkable Rise and Fall—from America’s Brightest Prodigy to the Edge of Madness",
+    "include": false,
+    "author": "Frank Brady"
+  },
+  {
+    "title": "Endurance: Shackleton's Incredible Voyage",
+    "include": false,
+    "author": "Alfred Lansing"
+  },
+  {
+    "title": "Endure: Mind, Body, and the Curiously Elastic Limits of Human Performance",
+    "include": false,
+    "author": "Alexander Hutchinson"
+  },
+  {
+    "title": "Europe's Last Summer",
+    "include": false,
+    "author": "David Fromkin"
+  },
+  {
+    "title": "Everything Reminds Me of Something: Advice, Answers...But No Apologies",
+    "include": false,
+    "author": "Adam Carolla"
+  },
+  {
+    "title": "Facing Reality: Two Truths About Race in America",
+    "include": false,
+    "author": "Charles Murray"
+  },
+  {
+    "title": "Family of Secrets: The Bush Dynasty, the Powerful Forces That Put It in the White House, and What Their Influence Means for America",
+    "include": true,
+    "author": "Russ Baker"
+  },
+  {
+    "title": "Farewell: The Greatest Spy Story of the Twentieth Century",
+    "include": false,
+    "author": "Sergei Kostin, Eric Raynaud, Catherine Cauvin-Higgins, Richard V. Allen"
+  },
+  {
+    "title": "Fatal Vision",
+    "include": false,
+    "author": "Joe McGinniss, Corey Brill"
+  },
+  {
+    "title": "Fed Up: An Insider's Take on Why the Federal Reserve is Bad for America",
+    "include": true,
+    "author": "Danielle DiMartino Booth"
+  },
+  {
+    "title": "FINAL EVENTS and the Secret Government Group on Demonic UFOs and the Afterlife",
+    "include": false,
+    "author": "Nick Redfern"
+  },
+  {
+    "title": "Five Families: The Rise, Decline, and Resurgence of America's Most Powerful Mafia Empires",
+    "include": false,
+    "author": "Selwyn Raab"
+  },
+  {
+    "title": "Follow the Science: How Big Pharma Misleads, Obscures, and Prevails",
+    "include": false,
+    "author": "Sharyl Attkisson"
+  },
+  {
+    "title": "Fool's Errand: Time to End the War in Afghanistan",
+    "include": true,
+    "author": "Scott Horton"
+  },
+  {
+    "title": "For Whom the Bell Tolls",
+    "include": false,
+    "author": "Ernest Hemingway"
+  },
+  {
+    "title": "Free to Choose: A Personal Statement",
+    "include": false,
+    "author": "Milton Friedman, Rose Friedman"
+  },
+  {
+    "title": "Global Death Cult: The Order of Nine Angles, Atomwaffen, and the Slaughter of the Innocents.",
+    "include": true,
+    "author": "William Ramsey"
+  },
+  {
+    "title": "Going Clear: Scientology, Hollywood, and the Prison of Belief",
+    "include": false,
+    "author": "Lawrence Wright"
+  },
+  {
+    "title": "Goldwater: The Man Who Made a Revolution",
+    "include": false,
+    "author": "Lee Edwards"
+  },
+  {
+    "title": "Gorky Park",
+    "include": false,
+    "author": "Martin Cruz Smith"
+  },
+  {
+    "title": "Green River, Running Red",
+    "include": false,
+    "author": "Ann Rule"
+  },
+  {
+    "title": "Greenlights",
+    "include": false,
+    "author": "Matthew McConaughey"
+  },
+  {
+    "title": "Hellhound On His Trail: The Stalking of Martin Luther King, Jr. and the International Hunt for His Assassin",
+    "include": false,
+    "author": "Hampton Sides"
+  },
+  {
+    "title": "Helter Skelter: The True Story of the Manson Murders",
+    "include": false,
+    "author": "Vincent Bugliosi, Curt Gentry"
+  },
+  {
+    "title": "Hidden History: An Exposé of Modern Crimes, Conspiracies, and Cover-Ups in American Politics",
+    "include": false,
+    "author": "Donald Jeffries"
+  },
+  {
+    "title": "History of the Russian Revolution",
+    "include": false,
+    "author": "Leon Trotsky"
+  },
+  {
+    "title": "Hitch-22: A Memoir",
+    "include": false,
+    "author": "Christopher Hitchens"
+  },
+  {
+    "title": "Howard Hughes: The Untold Story",
+    "include": false,
+    "author": "Peter Harry Brown, Pat H. Broeske"
+  },
+  {
+    "title": "Human Diversity: The Biology of Gender, Race, and Class",
+    "include": false,
+    "author": "Charles Murray"
+  },
+  {
+    "title": "Human Smoke: The Beginnings of World War II, the End of Civilization",
+    "author": "Nicholson Baker",
+    "include": true,
+    "source": "manual"
+  },
+  {
+    "title": "I'll Be Gone in the Dark: One Woman's Obsessive Search for the Golden State Killer",
+    "include": false,
+    "author": "Michelle McNamara"
+  },
+  {
+    "title": "I'm Your Emotional Support Animal: Navigating Our All Woke, No Joke Culture",
+    "include": false,
+    "author": "Adam Carolla"
+  },
+  {
+    "title": "In Broad Daylight",
+    "include": false,
+    "author": "Harry N. MacLean"
+  },
+  {
+    "title": "In Cold Blood",
+    "include": false,
+    "author": "Truman Capote"
+  },
+  {
+    "title": "In the Kingdom of Ice: The Grand and Terrible Polar Voyage of the USS Jeannette",
+    "include": false,
+    "author": "Hampton Sides"
+  },
+  {
+    "title": "Infidel",
+    "include": false,
+    "author": "Ayaan Hirsi Ali"
+  },
+  {
+    "title": "Into Africa: The Epic Adventures of Stanley and Livingstone",
+    "include": false,
+    "author": "Martin Dugard"
+  },
+  {
+    "title": "Into the Silence: The Great War, Mallory, and the Conquest of Everest",
+    "include": false,
+    "author": "Wade Davis"
+  },
+  {
+    "title": "Into Thin Air: A Personal Account of the Mt. Everest Disaster",
+    "include": false,
+    "author": "Jon Krakauer"
+  },
+  {
+    "title": "Invisible Man: A Novel",
+    "include": false,
+    "author": "Ralph Ellison"
+  },
+  {
+    "title": "Islands in the Stream",
+    "include": false,
+    "author": "Ernest Hemingway"
+  },
+  {
+    "title": "Israel's Lobby",
+    "include": false,
+    "author": "Eli Clifton, Ian Lustick"
+  },
+  {
+    "title": "James: A Novel",
+    "include": false,
+    "author": "Percival Everett"
+  },
+  {
+    "title": "John le Carré: The Biography",
+    "include": false,
+    "author": "Adam Sisman"
+  },
+  {
+    "title": "Judgment of Paris: California vs. France and the Historic 1976 Paris Tasting That Revolutionized Wine",
+    "include": false,
+    "author": "George M. Taber"
+  },
+  {
+    "title": "Justice on Trial: The Kavanaugh Confirmation and the Future of the Supreme Court",
+    "include": false,
+    "author": "Mollie Hemingway, Carrie Severino"
+  },
+  {
+    "title": "Kim",
+    "include": false,
+    "author": "Rudyard Kipling"
+  },
+  {
+    "title": "King Leopold's Ghost: A Story of Greed, Terror, and Heroism in Colonial Africa",
+    "include": false,
+    "author": "Adam Hochschild"
+  },
+  {
+    "title": "L'Appart: The Delights and Disasters of Making My Paris Home",
+    "include": false,
+    "author": "David Lebovitz"
+  },
+  {
+    "title": "Last Night at the Lobster",
+    "include": false,
+    "author": "Stewart O'Nan"
+  },
+  {
+    "title": "Last Word: My Indictment of the CIA in the Murder of JFK",
+    "include": false,
+    "author": "Mark Lane"
+  },
+  {
+    "title": "Layered Money: From Gold and Dollars to Bitcoin and Central Bank Digital Currencies",
+    "include": false,
+    "author": "Nik Bhatia"
+  },
+  {
+    "title": "Lenin's Tomb: The Last Days of the Soviet Empire (Pulitzer Prize Winner)",
+    "include": false,
+    "author": "David Remnick"
+  },
+  {
+    "title": "Lenin: The Man, the Dictator, and the Master of Terror",
+    "include": false,
+    "author": "Victor Sebestyen"
+  },
+  {
+    "title": "Let's Pretend This Never Happened: A Mostly True Memoir",
+    "include": false,
+    "author": "Jenny Lawson"
+  },
+  {
+    "title": "Light in August",
+    "include": false,
+    "author": "William Faulkner"
+  },
+  {
+    "title": "Lonesome Dove",
+    "include": false,
+    "author": "Larry McMurtry"
+  },
+  {
+    "title": "Lords of Finance: The Bankers Who Broke the World",
+    "include": true,
+    "author": "Liaquat Ahamed"
+  },
+  {
+    "title": "Lost at Sea: The Jon Ronson Mysteries",
+    "include": false,
+    "author": "Jon Ronson"
+  },
+  {
+    "title": "Ludwig Von Mises: Fountainhead of the Modern Microeconomics Revolution",
+    "include": false,
+    "author": "Eamonn Butler"
+  },
+  {
+    "title": "Man's Search for Meaning: An Introduction to Logotherapy",
+    "include": false,
+    "author": "Viktor E. Frankl"
+  },
+  {
+    "title": "Mao: The Unknown Story",
+    "include": false,
+    "author": "Jung Chang, Jon Halliday"
+  },
+  {
+    "title": "Market Wizards: Interviews with Top Traders",
+    "include": true,
+    "author": "Jack D. Schwager, Bruce Kovner, Richard Dennis, Paul Tudor Jones, Michael Steinhardt, Ed Seykota, Marty Schwartz, Tom Baldwin"
+  },
+  {
+    "title": "Mary's Mosaic: The CIA Conspiracy to Murder John F. Kennedy, Mary Pinchot Meyer, and Their Vision for World Peace",
+    "include": false,
+    "author": "Peter Janney"
+  },
+  {
+    "title": "Maverick: A Biography of Thomas Sowell",
+    "include": false,
+    "author": "Jason L Riley"
+  },
+  {
+    "title": "Maximum Harm: The Tsarnaev Brothers, the FBI, and the Road to the Marathon Bombing",
+    "author": "Michele R. McPhee",
+    "include": true,
+    "source": "manual"
+  },
+  {
+    "title": "Mayhem: Unanswered Questions about the Tsarnaev Brothers, the US Government and the Boston Marathon Bombing",
+    "include": false,
+    "author": "Michele R. McPhee"
+  },
+  {
+    "title": "Me & Lee: How I Came to Know, Love and Lose Lee Harvey Oswald",
+    "include": false,
+    "author": "Judyth Vary Baker"
+  },
+  {
+    "title": "Member of the Family: My Story of Charles Manson, Life Inside His Cult, and the Darkness that Ended the Sixties",
+    "include": false,
+    "author": "Dianne Lake, Deborah Herman"
+  },
+  {
+    "title": "Michael Palin: New Europe",
+    "include": false,
+    "author": "Michael Palin"
+  },
+  {
+    "title": "Midnight in the Garden of Good and Evil",
+    "include": false,
+    "author": "John Berendt"
+  },
+  {
+    "title": "More than a Body: Your Body Is an Instrument, Not an Ornament",
+    "include": false,
+    "author": "Lexie Kite, Lindsay Kite"
+  },
+  {
+    "title": "Napoleon: A Life",
+    "include": false,
+    "author": "Andrew Roberts"
+  },
+  {
+    "title": "National Security Cinema: The Shocking New Evidence of Government Control in Hollywood",
+    "include": true,
+    "author": "Matthew Alford, Tom Secker"
+  },
+  {
+    "title": "NATO's Secret Armies: Operation Gladio and Terrorism in Western Europe",
+    "author": "Daniele Ganser",
+    "include": true,
+    "source": "manual"
+  },
+  {
+    "title": "No Country for Old Men",
+    "include": false,
+    "author": "Cormac McCarthy"
+  },
+  {
+    "title": "No One Left to Lie To: The Triangulations of William Jefferson Clinton",
+    "include": false,
+    "author": "Christopher Hitchens, Douglas Brinkley"
+  },
+  {
+    "title": "No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State",
+    "include": true,
+    "author": "Glenn Greenwald"
+  },
+  {
+    "title": "Notes from the Underground",
+    "include": false,
+    "author": "Fyodor Dostoevsky"
+  },
+  {
+    "title": "Nullification: How to Resist Federal Tyranny in the 21st Century",
+    "include": false,
+    "author": "Thomas E. Woods Jr."
+  },
+  {
+    "title": "Oath and Honor: A Memoir and a Warning",
+    "include": false,
+    "author": "Liz Cheney"
+  },
+  {
+    "title": "Oklahoma City: What the Investigation Missed—and Why It Still Matters",
+    "author": "Andrew Gumbel, Roger G. Charles",
+    "include": true,
+    "source": "manual"
+  },
+  {
+    "title": "On the Trail of the JFK Assassins: A Groundbreaking Look at America's Most Infamous Conspiracy",
+    "include": false,
+    "author": "Dick Russell"
+  },
+  {
+    "title": "One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War",
+    "include": false,
+    "author": "Michael Dobbs"
+  },
+  {
+    "title": "One Nation Under Blackmail, Vol. 1: The Sordid Union Between Intelligence and Crime that Gave Rise to Jeffrey Epstein",
+    "include": true,
+    "author": "Whitney Alyse Webb"
+  },
+  {
+    "title": "One of Us: The Story of a Massacre in Norway - and Its Aftermath",
+    "include": false,
+    "author": "Åsne Seierstad, Sarah Death"
+  },
+  {
+    "title": "One Soldier's War",
+    "include": false,
+    "author": "Arkady Babchenko, Nick Allen"
+  },
+  {
+    "title": "Operation Gladio: The Unholy Alliance Between the Vatican, the CIA, and the Mafia",
+    "include": true,
+    "author": "Paul L. Williams"
+  },
+  {
+    "title": "Operation Mincemeat: How a Dead Man and a Bizarre Plan Fooled the Nazis and Assured an Allied Victory",
+    "include": false,
+    "author": "Ben Macintyre"
+  },
+  {
+    "title": "Operation Overflight: A Memoir of the U-2 Incident",
+    "include": false,
+    "author": "Francis Gary Powers, Curt Gentry"
+  },
+  {
+    "title": "Operation Paperclip: The Secret Intelligence Program that Brought Nazi Scientists to America",
+    "include": true,
+    "author": "Annie Jacobsen"
+  },
+  {
+    "title": "Operation Thunderbolt: Flight 139 and the Raid on Entebbe Airport, the Most Audacious Hostage Rescue Mission in History",
+    "include": false,
+    "author": "Saul David"
+  },
+  {
+    "title": "Other People's Children: A Novel",
+    "include": false,
+    "author": "Jeff Hoffmann"
+  },
+  {
+    "title": "Our Man in Havana",
+    "include": false,
+    "author": "Graham Greene"
+  },
+  {
+    "title": "Overthrow: America's Century of Regime Change from Hawaii to Iraq",
+    "include": true,
+    "author": "Stephen Kinzer"
+  },
+  {
+    "title": "Pandemia: How Coronavirus Hysteria Took Over Our Government, Rights, and Lives",
+    "include": false,
+    "author": "Alex Berenson"
+  },
+  {
+    "title": "People Who Eat Darkness: The True Story of a Young Woman Who Vanished from the Streets of Tokyo—and the Evil That Swallowed Her Up",
+    "include": false,
+    "author": "Richard Lloyd Parry"
+  },
+  {
+    "title": "Permanent Record",
+    "include": true,
+    "author": "Edward Snowden"
+  },
+  {
+    "title": "Pirate Hunters: Treasure, Obsession, and the Search for a Legendary Pirate Ship",
+    "include": false,
+    "author": "Robert Kurson"
+  },
+  {
+    "title": "Poisoner in Chief: Sidney Gottlieb and the CIA Search for Mind Control",
+    "include": true,
+    "author": "Stephen Kinzer"
+  },
+  {
+    "title": "Portrait of a Killer: Jack the Ripper, Case Closed",
+    "include": false,
+    "author": "Patricia Cornwell"
+  },
+  {
+    "title": "Prey: Immigration, Islam, and the Erosion of Women's Rights",
+    "include": false,
+    "author": "Ayaan Hirsi Ali"
+  },
+  {
+    "title": "Princes of the Yen: Japan's Central Bankers and the Transformation of the Economy",
+    "author": "Richard Werner",
+    "include": true,
+    "source": "manual"
+  },
+  {
+    "title": "Principles of Economics",
+    "include": false,
+    "author": "Saifedean Ammous"
+  },
+  {
+    "title": "Project Azorian: The CIA and the Raising of the K-129",
+    "include": false,
+    "author": "Norman Polmar, Michael White"
+  },
+  {
+    "title": "Propaganda",
+    "author": "Edward Bernays",
+    "include": true,
+    "source": "manual"
+  },
+  {
+    "title": "Prophet's Prey: My Seven-Year Investigation into Warren Jeffs and the Fundamentalist Church of Latter-Day Saints",
+    "include": false,
+    "author": "Sam Brower, Jon Krakauer"
+  },
+  {
+    "title": "Provoked: How Washington Started the New Cold War with Russia and the Catastrophe of Ukraine",
+    "author": "Scott Horton",
+    "include": true,
+    "source": "manual"
+  },
+  {
+    "title": "Psycho",
+    "include": false,
+    "author": "Robert Bloch"
+  },
+  {
+    "title": "Public Opinion",
+    "author": "Walter Lippmann",
+    "include": true,
+    "source": "manual"
+  },
+  {
+    "title": "Putin",
+    "include": false,
+    "author": "Philip Short"
+  },
+  {
+    "title": "Rabbit Hole: A Satanic Ritual Abuse Survivor's Story",
+    "include": false,
+    "author": "David Shurter"
+  },
+  {
+    "title": "Rasputin: Faith, Power, and the Twilight of the Romanovs",
+    "include": false,
+    "author": "Douglas Smith"
+  },
+  {
+    "title": "Raven Rock: The Story of the U.S. Government's Secret Plan to Save Itself--While the Rest of Us Die",
+    "include": true,
+    "author": "Garrett M. Graff"
+  },
+  {
+    "title": "Red Notice: A True Story of High Finance, Murder and One Man's Fight for Justice",
+    "include": false,
+    "author": "Bill Browder"
+  },
+  {
+    "title": "Red Storm Rising",
+    "include": false,
+    "author": "Tom Clancy"
+  },
+  {
+    "title": "Red-Handed: How American Elites Get Rich Helping China Win",
+    "include": false,
+    "author": "Peter Schweizer"
+  },
+  {
+    "title": "Reminiscences of a Stock Operator",
+    "include": true,
+    "author": "Edwin Lefevre"
+  },
+  {
+    "title": "Revolution’s End: The Patty Hearst Kidnapping, Mind Control, and the Secret History of Donald DeFreeze and the SLA",
+    "include": false,
+    "author": "Brad Schreiber"
+  },
+  {
+    "title": "Righteous Indignation: Excuse Me While I Save the World",
+    "include": false,
+    "author": "Andrew Breitbart"
+  },
+  {
+    "title": "Rocket Men: The Daring Odyssey of Apollo 8 and the Astronauts Who Made Man's First Journey to the Moon",
+    "include": false,
+    "author": "Robert Kurson"
+  },
+  {
+    "title": "Rudyard Kipling",
+    "include": false,
+    "author": "Andrew Lycett"
+  },
+  {
+    "title": "Run the Storm: A Savage Hurricane, a Brave Crew, and the Wreck of the SS El Faro",
+    "include": false,
+    "author": "George Michelsen Foy"
+  },
+  {
+    "title": "Say Nothing: A True Story of Murder and Memory in Northern Ireland",
+    "include": false,
+    "author": "Patrick Radden Keefe"
+  },
+  {
+    "title": "Scorpion Down",
+    "include": false,
+    "author": "Ed Offley"
+  },
+  {
+    "title": "Securing Democracy: My Fight for Press Freedom and Justice in Bolsonaro's Brazil",
+    "include": false,
+    "author": "Glenn Greenwald"
+  },
+  {
+    "title": "See No Evil: The True Story of a Ground Soldier in the CIA's War on Terrorism",
+    "include": false,
+    "author": "Robert Baer"
+  },
+  {
+    "title": "Seven Years in Tibet",
+    "include": false,
+    "author": "Heinrich Harrer, Richard Graves"
+  },
+  {
+    "title": "Shadow Divers: The True Adventure of Two Americans Who Risked Everything to Solve One of the Last Mysteries of World War II",
+    "include": false,
+    "author": "Robert Kurson"
+  },
+  {
+    "title": "Shadow Strike: Inside Israel's Secret Mission to Eliminate Syrian Nuclear Power",
+    "include": false,
+    "author": "Yaakov Katz"
+  },
+  {
+    "title": "Shattered: Inside Hillary Clinton's Doomed Campaign",
+    "include": false,
+    "author": "Jonathan Allen, Amie Parnes"
+  },
+  {
+    "title": "Sherlock Holmes: The Definitive Collection",
+    "include": false,
+    "author": "Arthur Conan Doyle, Stephen Fry"
+  },
+  {
+    "title": "Shogun: A Novel of Japan",
+    "include": false,
+    "author": "James Clavell"
+  },
+  {
+    "title": "Six Days of War: June 1967 and the Making of the Modern Middle East",
+    "include": false,
+    "author": "Michael B. Oren"
+  },
+  {
+    "title": "Smiley's People: A George Smiley Novel",
+    "include": false,
+    "author": "John le Carré"
+  },
+  {
+    "title": "Some Danger Involved: Barker & Llewelyn Series, Book 1",
+    "include": false,
+    "author": "Will Thomas"
+  },
+  {
+    "title": "Somme: Into the Breach",
+    "include": false,
+    "author": "Hugh Sebag-Montefiore"
+  },
+  {
+    "title": "Sons of Wichita: How the Koch Brothers Became America's Most Powerful and Private Dynasty",
+    "include": false,
+    "author": "Daniel Schulman"
+  },
+  {
+    "title": "Special Forces Berlin: Clandestine Cold War Operations of the US Army's Elite, 1956-1990",
+    "include": false,
+    "author": "James Stejskal"
+  },
+  {
+    "title": "Stalin’s War: A New History of World War II",
+    "include": true,
+    "author": "Sean McMeekin"
+  },
+  {
+    "title": "Stanley Kubrick and Me: Thirty Years at His Side",
+    "include": false,
+    "author": "Emilio D'Alessandro, Filippo Ulivieri, Simon Marsh"
+  },
+  {
+    "title": "Steve Jobs",
+    "include": false,
+    "author": "Walter Isaacson"
+  },
+  {
+    "title": "Strange Angel: The Otherworldly Life of Rocket Scientist John Whiteside Parsons",
+    "include": true,
+    "author": "George Pendle"
+  },
+  {
+    "title": "Street Without Joy: The French Debacle in Indochina",
+    "include": false,
+    "author": "Bernard B. Fall"
+  },
+  {
+    "title": "Suicide of the West: An Essay on the Meaning and Destiny of Liberalism",
+    "include": false,
+    "author": "James Burnham"
+  },
+  {
+    "title": "Tesla & the Cabbage Patch Kids: The Fall of the Tartarian Empire & Reset of 1776",
+    "include": true,
+    "author": "Guy Anderson"
+  },
+  {
+    "title": "The 9th Directive: Quiller, Book 2",
+    "include": false,
+    "author": "Adam Hall"
+  },
+  {
+    "title": "The Amityville Horror",
+    "include": false,
+    "author": "Jay Anson"
+  },
+  {
+    "title": "The Ancient City: A Study on the Religion, Laws, and Institutions of Ancient Greece and Rome",
+    "include": false,
+    "author": "Numa Denis Fustel de Coulanges"
+  },
+  {
+    "title": "The Arms of Krupp: 1587-1968",
+    "include": false,
+    "author": "William Manchester"
+  },
+  {
+    "title": "The Austrian Case for the Free Market Process: Ludwig von Mises and Friedrich Hayek",
+    "include": false,
+    "author": "William Peterson, Israel Kirzner, Mike Hassell"
+  },
+  {
+    "title": "The Battle of Bretton Woods: John Maynard Keynes, Harry Dexter White, and the Making of a New World Order",
+    "include": true,
+    "author": "Benn Steil"
+  },
+  {
+    "title": "The Best and the Brightest",
+    "include": false,
+    "author": "David Halberstam"
+  },
+  {
+    "title": "The Best Land Under Heaven: The Donner Party in the Age of Manifest Destiny",
+    "include": false,
+    "author": "Michael Wallis"
+  },
+  {
+    "title": "The Big Goodbye: Chinatown and the Last Years of Hollywood",
+    "include": false,
+    "author": "Sam Wasson"
+  },
+  {
+    "title": "The Big Print: What Happened to America and How Sound Money Will Fix It",
+    "include": false,
+    "author": "Lawrence Lepard"
+  },
+  {
+    "title": "The Big Short: Inside the Doomsday Machine",
+    "include": false,
+    "author": "Michael Lewis"
+  },
+  {
+    "title": "The Big Store: Inside the Crisis and Revolution at Sears",
+    "include": false,
+    "author": "Donald Katz"
+  },
+  {
+    "title": "The Bitcoin Standard: The Decentralized Alternative to Central Banking",
+    "include": true,
+    "author": "Saifedean Ammous"
+  },
+  {
+    "title": "The Blocksize War: The Battle for Control Over Bitcoin’s Protocol Rules",
+    "include": true,
+    "author": "Jonathan Bier"
+  },
+  {
+    "title": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+    "include": false,
+    "author": "Daniel James Brown"
+  },
+  {
+    "title": "The Caine Mutiny",
+    "include": false,
+    "author": "Herman Wouk"
+  },
+  {
+    "title": "The Case Against Education: Why the Education System Is a Waste of Time and Money",
+    "include": false,
+    "author": "Bryan Caplan"
+  },
+  {
+    "title": "The Case for Trump",
+    "include": false,
+    "author": "Victor Davis Hanson"
+  },
+  {
+    "title": "The Chaos Machine: The Inside Story of How Social Media Rewired Our Minds and Our World",
+    "include": false,
+    "author": "Max Fisher"
+  },
+  {
+    "title": "The Climb",
+    "include": false,
+    "author": "Anatoli Boukreev, G. Weston DeWalt"
+  },
+  {
+    "title": "The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting Up a Generation for Failure",
+    "include": false,
+    "author": "Greg Lukianoff, Jonathan Haidt"
+  },
+  {
+    "title": "The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race",
+    "include": false,
+    "author": "Walter Isaacson, Walter Isaacson"
+  },
+  {
+    "title": "The Code of the Woosters: Jeeves to the Rescue",
+    "include": false,
+    "author": "P. G. Wodehouse"
+  },
+  {
+    "title": "The Colony: Faith and Blood in a Promised Land",
+    "include": false,
+    "author": "Sally Denton"
+  },
+  {
+    "title": "The Comedians",
+    "include": false,
+    "author": "Graham Greene"
+  },
+  {
+    "title": "The Coming Storm",
+    "include": false,
+    "author": "Michael Lewis"
+  },
+  {
+    "title": "The Complete George Smiley Radio Dramas: BBC Radio 4 Full-Cast Dramatisation",
+    "include": false,
+    "author": "John le Carré"
+  },
+  {
+    "title": "The Corporation: An Epic Story of the Cuban American Underworld",
+    "include": false,
+    "author": "T. J. English"
+  },
+  {
+    "title": "The Count of Monte Cristo",
+    "include": false,
+    "author": "Alexandre Dumas"
+  },
+  {
+    "title": "The Creature from Jekyll Island: A Second Look at the Federal Reserve",
+    "include": true,
+    "author": "G. Edward Griffin"
+  },
+  {
+    "title": "The Day of the Jackal",
+    "include": false,
+    "author": "Frederick Forsyth"
+  },
+  {
+    "title": "The Death of a President: November 20-November 25, 1963",
+    "include": false,
+    "author": "William Manchester"
+  },
+  {
+    "title": "The Death of Ivan Ilyich",
+    "include": false,
+    "author": "Leo Tolstoy"
+  },
+  {
+    "title": "The Death of the Banker: The Decline and Fall of the Great Financial Dynasties and the Triumph of the Small Investor",
+    "include": false,
+    "author": "Ron Chernow"
+  },
+  {
+    "title": "The Decline of the West: Volume 1: Form and Actuality and Volume 2: Perspectives of World History",
+    "include": true,
+    "author": "Oswald Spengler"
+  },
+  {
+    "title": "The Deep Blue Good-By: A Travis McGee Novel, Book 1",
+    "include": false,
+    "author": "John D. MacDonald"
+  },
+  {
+    "title": "The Deep State Goes Viral: Pandemic Planning and the Covid Coup",
+    "include": false,
+    "author": "Debbie Lerman"
+  },
+  {
+    "title": "The Deluge: The Great War, America and the Remaking of the Global Order, 1916-1931",
+    "include": false,
+    "author": "Adam Tooze"
+  },
+  {
+    "title": "The Demon Next Door",
+    "include": false,
+    "author": "Bryan Burrough"
+  },
+  {
+    "title": "The Devil Is Here in These Hills: West Virginia’s Coal Miners and Their Battle for Freedom",
+    "include": false,
+    "author": "James Green"
+  },
+  {
+    "title": "The Devil's Chessboard: Allen Dulles, the CIA, and the Rise of America's Secret Government",
+    "author": "David Talbot",
+    "include": true,
+    "source": "manual"
+  },
+  {
+    "title": "The Dreyfus Affair: The Scandal That Tore France in Two",
+    "include": false,
+    "author": "Piers Paul Read"
+  },
+  {
+    "title": "The Dying Citizen: How Progressive Elites, Tribalism, and Globalization Are Destroying the Idea of America",
+    "include": false,
+    "author": "Victor Davis Hanson"
+  },
+  {
+    "title": "The End of the World Is Just the Beginning: Mapping the Collapse of Globalization",
+    "include": false,
+    "author": "Peter Zeihan"
+  },
+  {
+    "title": "The Executioner's Song",
+    "include": false,
+    "author": "Norman Mailer"
+  },
+  {
+    "title": "The Fall of Heaven: The Pahlavis and the Final Days of Imperial Iran",
+    "include": false,
+    "author": "Andrew Scott Cooper"
+  },
+  {
+    "title": "The Farm: A Novel",
+    "include": false,
+    "author": "Joanne Ramos"
+  },
+  {
+    "title": "The Fort Bragg Cartel: Drug Trafficking and Murder in the Special Forces",
+    "include": false,
+    "author": "Seth Harp"
+  },
+  {
+    "title": "The Four Agreements",
+    "include": false,
+    "author": "don Miguel Ruiz"
+  },
+  {
+    "title": "The Fourth Turning Is Here: What the Seasons of History Tell Us about How and When This Crisis Will End",
+    "include": false,
+    "author": "Neil Howe"
+  },
+  {
+    "title": "The Fourth Turning: An American Prophecy",
+    "include": true,
+    "author": "William Strauss, Neil Howe"
+  },
+  {
+    "title": "The Frackers: The Outrageous Inside Story of the New Billionaire Wildcatters",
+    "include": false,
+    "author": "Gregory Zuckerman"
+  },
+  {
+    "title": "The Franklin Scandal: A Story of Powerbrokers, Child Abuse & Betrayal",
+    "include": true,
+    "author": "Nick Bryant"
+  },
+  {
+    "title": "The French Lieutenant's Woman",
+    "include": false,
+    "author": "John Fowles"
+  },
+  {
+    "title": "The Getaway Girls",
+    "include": false,
+    "author": "Dee MacDonald"
+  },
+  {
+    "title": "The God of the Woods: A Novel",
+    "include": false,
+    "author": "Liz Moore"
+  },
+  {
+    "title": "The Great Game of Business, Expanded and Updated: The Only Sensible Way to Run a Company",
+    "include": false,
+    "author": "Jack Stack, Bo Burlingham"
+  },
+  {
+    "title": "The Great Railway Bazaar: By Train Through Asia",
+    "include": false,
+    "author": "Paul Theroux"
+  },
+  {
+    "title": "The Great Reset",
+    "include": false,
+    "author": "The Great Reset"
+  },
+  {
+    "title": "The Great Reset: Joe Biden and the Rise of Twenty-First-Century Fascism",
+    "include": false,
+    "author": "Glenn Beck, Justin Trask Haskins"
+  },
+  {
+    "title": "The Great Terror: A Reassessment",
+    "include": false,
+    "author": "Robert Conquest"
+  },
+  {
+    "title": "The Gulag Archipelago, 1918–1956, Vol. 1: An Experiment in Literary Investigation, I–II",
+    "include": false,
+    "author": "Aleksandr I. Solzhenitsyn"
+  },
+  {
+    "title": "The Honourable Schoolboy: A George Smiley Novel",
+    "include": false,
+    "author": "John le Carré"
+  },
+  {
+    "title": "The House of Morgan: An American Banking Dynasty and the Rise of Modern Finance",
+    "include": false,
+    "author": "Ron Chernow"
+  },
+  {
+    "title": "The Hundred-Year Marathon: China's Secret Strategy to Replace America as the Global Superpower",
+    "include": false,
+    "author": "Michael Pillsbury"
+  },
+  {
+    "title": "The Idiot",
+    "include": false,
+    "author": "Fyodor Dostoyevsky"
+  },
+  {
+    "title": "The Illuminati: The Secret Society That Hijacked the World",
+    "include": false,
+    "author": "Jim Marrs"
+  },
+  {
+    "title": "The Immortal Life of Henrietta Lacks",
+    "include": false,
+    "author": "Rebecca Skloot"
+  },
+  {
+    "title": "The Indispensable Right: Free Speech in an Age of Rage",
+    "include": false,
+    "author": "Jonathan Turley"
+  },
+  {
+    "title": "The Innocent Man: Murder and Injustice in a Small Town",
+    "include": false,
+    "author": "John Grisham"
+  },
+  {
+    "title": "The International Satanic Network Exposed: Survivors Reveal Names of Presidents, Prime Ministers and Royals",
+    "include": false,
+    "author": "Makia Freeman"
+  },
+  {
+    "title": "The Island of Sea Women: A Novel",
+    "include": false,
+    "author": "Lisa See"
+  },
+  {
+    "title": "The Israel Lobby and U.S. Foreign Policy",
+    "include": false,
+    "author": "John J. Mearsheimer, Stephen M. Walt"
+  },
+  {
+    "title": "The Killing of Karen Silkwood: The Story Behind the Kerr-McGee Plutonium Case",
+    "include": false,
+    "author": "Richard Rashke"
+  },
+  {
+    "title": "The Last Lion: Winston Spencer Churchill, Volume I: Visions of Glory 1874-1932",
+    "include": false,
+    "author": "William Manchester"
+  },
+  {
+    "title": "The Last Lion: Winston Spencer Churchill, Volume II: Alone, 1932-1940: Winston Spencer Churchill, Volume II: Alone, 1932-1940",
+    "include": false,
+    "author": "William Manchester"
+  },
+  {
+    "title": "The Last Viking: The Life of Roald Amundsen",
+    "include": false,
+    "author": "Stephen R. Bown"
+  },
+  {
+    "title": "The Little Drummer Girl: A Novel",
+    "include": false,
+    "author": "John le Carré"
+  },
+  {
+    "title": "The Looking Glass War",
+    "include": false,
+    "author": "John le Carré"
+  },
+  {
+    "title": "The Looming Tower: Al-Qaeda and the Road to 9/11",
+    "include": false,
+    "author": "Lawrence Wright"
+  },
+  {
+    "title": "The Lords of Easy Money: How the Federal Reserve Broke the American Economy",
+    "include": false,
+    "author": "Christopher Leonard"
+  },
+  {
+    "title": "The Machiavellians: Defenders of Freedom",
+    "include": true,
+    "author": "James Burnham"
+  },
+  {
+    "title": "The Madness of Crowds: Gender, Race and Identity",
+    "include": false,
+    "author": "Douglas Murray"
+  },
+  {
+    "title": "The Magic Mountain",
+    "include": false,
+    "author": "Thomas Mann"
+  },
+  {
+    "title": "The Man from the Train: The Solving of a Century-Old Serial Killer Mystery",
+    "include": false,
+    "author": "Bill James, Rachel McCarthy James"
+  },
+  {
+    "title": "The Mandibles: A Family, 2029-2047",
+    "include": false,
+    "author": "Lionel Shriver"
+  },
+  {
+    "title": "The Master of Auschwitz:: Memoirs of Rudolf Hoess, Kommandant SS",
+    "include": false,
+    "author": "Rudolf Hoess"
+  },
+  {
+    "title": "The Moth in the Iron Lung: A Biography of Polio",
+    "include": false,
+    "author": "Forrest Maready"
+  },
+  {
+    "title": "The Mysterious Case of Rudolf Diesel: Genius, Power, and Deception on the Eve of World War I",
+    "include": true,
+    "author": "Douglas Brunt"
+  },
+  {
+    "title": "The Mystery of Banking",
+    "include": false,
+    "author": "Murray N. Rothbard"
+  },
+  {
+    "title": "The New Right: A Journey to the Fringe of American Politics",
+    "include": false,
+    "author": "Michael Malice"
+  },
+  {
+    "title": "The New Tsar: The Rise and Reign of Vladimir Putin",
+    "include": false,
+    "author": "Steven Lee Myers"
+  },
+  {
+    "title": "The Night Manager: A Novel",
+    "include": false,
+    "author": "John le Carré"
+  },
+  {
+    "title": "The Nightingale: A Novel",
+    "include": false,
+    "author": "Kristin Hannah"
+  },
+  {
+    "title": "The Path to Power: The Years of Lyndon Johnson",
+    "include": false,
+    "author": "Robert A. Caro"
+  },
+  {
+    "title": "The Personal Librarian",
+    "include": false,
+    "author": "Marie Benedict, Victoria Christopher Murray"
+  },
+  {
+    "title": "The Pillars of the Earth",
+    "include": false,
+    "author": "Ken Follett"
+  },
+  {
+    "title": "The Pirate Hunter",
+    "include": false,
+    "author": "Richard Zacks"
+  },
+  {
+    "title": "The Plague",
+    "include": false,
+    "author": "Albert Camus"
+  },
+  {
+    "title": "The Plot Against the President: The True Story of How Congressman Devin Nunes Uncovered the Biggest Political Scandal in U.S. History",
+    "include": false,
+    "author": "Lee Smith"
+  },
+  {
+    "title": "The Power Broker: Robert Moses and the Fall of New York",
+    "include": false,
+    "author": "Robert A. Caro"
+  },
+  {
+    "title": "The Price of Time: The Real Story of Interest",
+    "include": false,
+    "author": "Edward Chancellor"
+  },
+  {
+    "title": "The Price of Tomorrow: Why Deflation Is the Key to an Abundant Future",
+    "include": false,
+    "author": "Jeff Booth"
+  },
+  {
+    "title": "The Prince of Tides",
+    "include": false,
+    "author": "Pat Conroy"
+  },
+  {
+    "title": "The Professor and The Madman: A Tale of Murder, Insanity, and the Making of the Oxford English Dictionary",
+    "include": false,
+    "author": "Simon Winchester"
+  },
+  {
+    "title": "The Ransomware Hunting Team: A Band of Misfits' Improbable Crusade to Save the World from Cybercrime",
+    "include": false,
+    "author": "Renee Dudley, Daniel Golden"
+  },
+  {
+    "title": "The Rape of the Mind: The Psychology of Thought Control, Menticide, and Brainwashing",
+    "include": true,
+    "author": "Dr. Joost A.M. Meerloo"
+  },
+  {
+    "title": "The Real Anthony Fauci: Bill Gates, Big Pharma, and the Global War on Democracy and Public Health",
+    "include": false,
+    "author": "Robert F. Kennedy Jr."
+  },
+  {
+    "title": "The Return: Fathers, Sons and the Land in Between",
+    "include": false,
+    "author": "Hisham Matar"
+  },
+  {
+    "title": "The Rise and Fall of the Third Reich: A History of Nazi Germany",
+    "include": false,
+    "author": "William L. Shirer"
+  },
+  {
+    "title": "The Rising Sun: The Decline and Fall of the Japanese Empire, 1936-1945",
+    "include": false,
+    "author": "John Toland"
+  },
+  {
+    "title": "The River of Doubt: Theodore Roosevelt's Darkest Journey",
+    "include": false,
+    "author": "Candice Millard"
+  },
+  {
+    "title": "The Road to Kalamata",
+    "include": false,
+    "author": "Mike Hoare"
+  },
+  {
+    "title": "The Road to Serfdom, the Definitive Edition: Text and Documents",
+    "include": false,
+    "author": "F. A. Hayek, Bruce Caldwell"
+  },
+  {
+    "title": "The Romanovs: 1613-1918",
+    "include": false,
+    "author": "Simon Sebag Montefiore"
+  },
+  {
+    "title": "The Run of His Life: The People v. O.J. Simpson",
+    "include": false,
+    "author": "Jeffrey Toobin"
+  },
+  {
+    "title": "The Russia House",
+    "include": false,
+    "author": "John le Carré"
+  },
+  {
+    "title": "The Russian Revolution: A New History",
+    "include": false,
+    "author": "Sean McMeekin"
+  },
+  {
+    "title": "The Screwtape Letters",
+    "include": false,
+    "author": "C. S. Lewis"
+  },
+  {
+    "title": "The Search for the \"Manchurian Candidate\": The CIA and Mind Control: The Secret History of the Behavioral Sciences",
+    "include": false,
+    "author": "John D. Marks"
+  },
+  {
+    "title": "The Second Chance Café: A Hope Springs Novel",
+    "include": false,
+    "author": "Alison Kent"
+  },
+  {
+    "title": "The Secret Agent",
+    "include": false,
+    "author": "Joseph Conrad"
+  },
+  {
+    "title": "The Secret History of America: Classic Writings on Our Nation's Unknown Past and Inner Purpose",
+    "include": false,
+    "author": "Manly P. Hall, Mitch Horowitz"
+  },
+  {
+    "title": "The Secret Life of Bill Clinton: The Unreported Stories",
+    "author": "Ambrose Evans-Pritchard",
+    "include": true,
+    "source": "manual"
+  },
+  {
+    "title": "The Shadow Party: How George Soros, Hillary Clinton, and Sixties Radicals Seized Control of the Democratic Party",
+    "include": false,
+    "author": "David Horowitz, Richard Poe"
+  },
+  {
+    "title": "The Smartest Guys in the Room: The Amazing Rise and Scandalous Fall of Enron",
+    "include": false,
+    "author": "Bethany McLean, Peter Elkind"
+  },
+  {
+    "title": "The Snakehead: An Epic Tale of the Chinatown Underworld and the American Dream",
+    "include": false,
+    "author": "Patrick Radden Keefe"
+  },
+  {
+    "title": "The Sovereign Individual: Mastering the Transition to the Information Age",
+    "include": false,
+    "author": "James Dale Davidson, Lord William Rees-Mogg"
+  },
+  {
+    "title": "The Spy and the Traitor: The Greatest Espionage Story of the Cold War",
+    "include": false,
+    "author": "Ben Macintyre"
+  },
+  {
+    "title": "The Storm Before the Storm: The Beginning of the End of the Roman Republic",
+    "include": false,
+    "author": "Mike Duncan"
+  },
+  {
+    "title": "The Stranger",
+    "include": false,
+    "author": "Albert Camus"
+  },
+  {
+    "title": "The Stranger Beside Me: The Shocking True Story of Serial Killer Ted Bundy",
+    "include": false,
+    "author": "Ann Rule"
+  },
+  {
+    "title": "The Sun Also Rises",
+    "include": false,
+    "author": "Ernest Hemingway, Colm Toibin"
+  },
+  {
+    "title": "The Suspect: An Olympic Bombing, the FBI, the Media, and Richard Jewell, the Man Caught in the Middle",
+    "include": false,
+    "author": "Kent Alexander, Kevin Salwen"
+  },
+  {
+    "title": "The Sweet Potato Queens' Wedding Planner/Divorce Guide",
+    "include": false,
+    "author": "Jill Conner Browne"
+  },
+  {
+    "title": "The Sword and the Shield",
+    "include": false,
+    "author": "Christopher Andrew, Vasilli Mitrokhin"
+  },
+  {
+    "title": "The Ultimate Evil: The Search for the Sons of Sam",
+    "include": false,
+    "author": "Maury Terry"
+  },
+  {
+    "title": "The Venona Secrets: Exposing Soviet Espionage and America's Traitors",
+    "include": false,
+    "author": "Herbert Romerstein, Eric Breindel"
+  },
+  {
+    "title": "The Wages of Destruction: The Making and Breaking of the Nazi Economy",
+    "include": false,
+    "author": "Adam Tooze"
+  },
+  {
+    "title": "The Wall Street Journal Digest",
+    "include": false,
+    "author": "The Wall Street Journal"
+  },
+  {
+    "title": "The War Below: The Story of Three Submarines That Battled Japan",
+    "include": false,
+    "author": "James Scott"
+  },
+  {
+    "title": "The Winds of War",
+    "include": false,
+    "author": "Herman Wouk"
+  },
+  {
+    "title": "The Wizard of Lies: Bernie Madoff and the Death of Trust",
+    "include": false,
+    "author": "Diana B. Henriques"
+  },
+  {
+    "title": "The Women: A Novel",
+    "include": false,
+    "author": "Kristin Hannah"
+  },
+  {
+    "title": "These are the Plunderers: How Private Equity Runs—and Wrecks—America",
+    "include": false,
+    "author": "Gretchen Morgenson, Joshua Rosner"
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "include": false,
+    "author": "Daniel Kahneman"
+  },
+  {
+    "title": "Thirteen Days: A Memoir of the Cuban Missile Crisis",
+    "include": false,
+    "author": "Robert F. Kennedy"
+  },
+  {
+    "title": "Three Cups of Deceit: How Greg Mortenson, Humanitarian Hero, Lost His Way",
+    "include": false,
+    "author": "Jon Krakauer"
+  },
+  {
+    "title": "Three Women",
+    "include": false,
+    "author": "Lisa Taddeo"
+  },
+  {
+    "title": "Thunderstruck",
+    "include": false,
+    "author": "Erik Larson"
+  },
+  {
+    "title": "Tinker, Tailor, Soldier, Spy: A George Smiley Novel",
+    "include": false,
+    "author": "John le Carré"
+  },
+  {
+    "title": "Titan: The Life of John D. Rockefeller, Sr.",
+    "include": false,
+    "author": "Ron Chernow"
+  },
+  {
+    "title": "Tower of Basel: The Shadowy History of the Secret Bank that Runs the World",
+    "include": true,
+    "author": "Adam LeBor"
+  },
+  {
+    "title": "Tragedy and Hope: A History of the World in Our Time",
+    "include": true,
+    "author": "Carroll Quigley"
+  },
+  {
+    "title": "TRANCE Formation of America: The True Life Story of a CIA Mind Control Slave",
+    "include": false,
+    "author": "Cathy O'Brien, Mark Phillips"
+  },
+  {
+    "title": "Treasury's War: The Unleashing of a New Era of Financial Warfare",
+    "include": true,
+    "author": "Juan Zarate"
+  },
+  {
+    "title": "Tribe: On Homecoming and Belonging",
+    "include": false,
+    "author": "Sebastian Junger"
+  },
+  {
+    "title": "Tropic of Cancer",
+    "include": false,
+    "author": "Henry Miller"
+  },
+  {
+    "title": "Trotsky in New York, 1917: A Radical on the Eve of Revolution",
+    "include": false,
+    "author": "Kenneth D. Ackerman"
+  },
+  {
+    "title": "Truth, Lies, and O-Rings: Inside the Space Shuttle Challenger Disaster",
+    "include": false,
+    "author": "Allan J. McDonald, James R. Hansen - contributor"
+  },
+  {
+    "title": "TWA 800: The Crash, the Cover-Up, and the Conspiracy",
+    "include": false,
+    "author": "Jack Cashill"
+  },
+  {
+    "title": "Ubik",
+    "include": false,
+    "author": "Philip K. Dick"
+  },
+  {
+    "title": "Ulysses",
+    "include": false,
+    "author": "James Joyce"
+  },
+  {
+    "title": "Undaunted Courage: Meriwether Lewis Thomas Jefferson And The Opening Of The American West",
+    "include": false,
+    "author": "Stephen E. Ambrose"
+  },
+  {
+    "title": "Under the Banner of Heaven: A Story of Violent Faith",
+    "include": false,
+    "author": "Jon Krakauer"
+  },
+  {
+    "title": "Under the Volcano: A Novel",
+    "include": false,
+    "author": "Malcolm Lowry"
+  },
+  {
+    "title": "Unmasked: Inside Antifa's Radical Plan to Destroy Democracy",
+    "include": false,
+    "author": "Andy Ngo"
+  },
+  {
+    "title": "Unscripted: The Epic Battle for a Media Empire and the Redstone Family Legacy",
+    "include": false,
+    "author": "James B. Stewart, Rachel Abrams"
+  },
+  {
+    "title": "Vaccines, Amen: The Religion of Vaccines",
+    "include": false,
+    "author": "Aaron Siri"
+  },
+  {
+    "title": "Verity",
+    "include": false,
+    "author": "Colleen Hoover"
+  },
+  {
+    "title": "Watergate: A Novel",
+    "include": false,
+    "author": "Thomas Mallon"
+  },
+  {
+    "title": "Weimar Culture: The Outsider as Insider",
+    "include": false,
+    "author": "Peter Gay"
+  },
+  {
+    "title": "Weird Scenes Inside the Canyon: Laurel Canyon, Covert Ops, and the Dark Heart of the Hippie Dream",
+    "include": true,
+    "author": "David McGowan"
+  },
+  {
+    "title": "When Genius Failed: The Rise and Fall of Long-Term Capital Management",
+    "include": false,
+    "author": "Roger Lowenstein"
+  },
+  {
+    "title": "When Money Dies: The Nightmare of Deficit Spending, Devaluation, and Hyperinflation in Weimar, Germany",
+    "include": true,
+    "author": "Adam Fergusson"
+  },
+  {
+    "title": "When the Wolves Bite: Two Billionaires, One Company, and an Epic Wall Street Battle",
+    "include": false,
+    "author": "Scott Wapner"
+  },
+  {
+    "title": "Where'd You Go, Bernadette: A Novel",
+    "include": false,
+    "author": "Maria Semple"
+  },
+  {
+    "title": "While the City Slept: A Love Lost to Violence and a Wake-Up Call for Mental Health Care in America",
+    "include": false,
+    "author": "Eli Sanders"
+  },
+  {
+    "title": "Whittaker Chambers: A Biography",
+    "include": true,
+    "author": "Sam Tanenhaus"
+  },
+  {
+    "title": "Who Really Killed Kennedy?: 50 Years Later: Stunning New Revelations about the JFK Assassination",
+    "include": false,
+    "author": "Jerome R. Corsi"
+  },
+  {
+    "title": "Witness to a Prosecution: The Myth of Michael Milken",
+    "include": false,
+    "author": "Richard Sandler"
+  }
+]

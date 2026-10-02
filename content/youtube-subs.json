@@ -1,0 +1,634 @@
+{
+  "updated": "2026-09-29T15:25:32-05:00",
+  "source": "Christopher YouTube subscriptions — Talks podcast/show universe",
+  "count": 89,
+  "channels": [
+    {
+      "name": "Adam Taggart | Thoughtful Money®",
+      "aliases": [
+        "Thoughtful Money",
+        "Thoughtful Money with Adam Taggart",
+        "Adam Taggart"
+      ],
+      "rss": "https://anchor.fm/s/eca7b164/podcast/rss",
+      "youtubeUrl": "https://www.youtube.com/@adam.taggart",
+      "youtubeChannelId": "UCjqe6xtZYTfvA4pHs0HgJsQ"
+    },
+    {
+      "name": "Megyn Kelly",
+      "aliases": [
+        "The Megyn Kelly Show"
+      ],
+      "youtubeUrl": "https://www.youtube.com/@MegynKelly",
+      "youtubeChannelId": "UCzJXNzqz6VMHSNInQt_7q6w"
+    },
+    {
+      "name": "Mario Nawfal",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@MarioNawfal",
+      "youtubeChannelId": "UCTWBp-39z6tvz4-LQB-Z_QA"
+    },
+    {
+      "name": "Jack Neel",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@jackneel",
+      "youtubeChannelId": "UCFRCiFkWWJN2rO6dsKU9-1A"
+    },
+    {
+      "name": "Jim Webb Podcast",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@JimWebbPodcast",
+      "youtubeChannelId": "UC8fII8HzEsywnzQQbIoQJSw"
+    },
+    {
+      "name": "Shawn Ryan Show",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@ShawnRyanShow",
+      "youtubeChannelId": "UCkoujZQZatbqy4KGcgjpVxQ"
+    },
+    {
+      "name": "The Kyle Anzalone Show",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@KyleAnzalone",
+      "youtubeChannelId": "UCIQc-n1bVKFazKqSDqjaD7A"
+    },
+    {
+      "name": "ForrestHODL",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@ForrestHODL",
+      "youtubeChannelId": "UC2aM2gVVEHTu0pfE1ZyA0BQ"
+    },
+    {
+      "name": "LBC",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@LBCOfficial",
+      "youtubeChannelId": "UCb1Ti1WKPauPpXkYKVHNpsw"
+    },
+    {
+      "name": "DW News",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@dwnews",
+      "youtubeChannelId": "UCknLrEdhRCp1aegoMqRaCZg"
+    },
+    {
+      "name": "After Party with Emily Jashinsky",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@AfterPartyEmily",
+      "youtubeChannelId": "UCRmdj5PSPuTWRtqzqGpMLKg"
+    },
+    {
+      "name": "Alexander Mercouris",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@AlexMercouris",
+      "youtubeChannelId": "UCwGpHa6rMLjSSCBlckm5khw"
+    },
+    {
+      "name": "Tucker Carlson",
+      "aliases": [
+        "The Tucker Carlson Show"
+      ],
+      "youtubeUrl": "https://www.youtube.com/@TuckerCarlson",
+      "youtubeChannelId": "UCGttrUON87gWfU6dMWm1fcA"
+    },
+    {
+      "name": "Soar Financially",
+      "aliases": [],
+      "rss": "https://anchor.fm/s/1d15990c/podcast/rss",
+      "youtubeUrl": "https://www.youtube.com/@SoarFinancially",
+      "youtubeChannelId": "UCiq8gIFmHOAWjVoQPzJWwng"
+    },
+    {
+      "name": "Breaking Points",
+      "aliases": [
+        "Breaking Points with Krystal and Saagar"
+      ],
+      "youtubeUrl": "https://www.youtube.com/@breakingpoints",
+      "youtubeChannelId": "UCDRIjKy6eZOvKtOELtTdeUA"
+    },
+    {
+      "name": "Glenn Diesen",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@GDiesen1",
+      "youtubeChannelId": "UCZFCDIHTe9HGxtIuVDpBz7g"
+    },
+    {
+      "name": "TFTC",
+      "aliases": [
+        "TFTC: A Bitcoin Podcast",
+        "TFTC"
+      ],
+      "rss": "https://feeds.fountain.fm/ZwwaDULvAj0yZvJ5kdB9",
+      "youtubeUrl": "https://www.youtube.com/@TFTC",
+      "youtubeChannelId": "UCtdbWsnfA08KhSUO4amVLaQ"
+    },
+    {
+      "name": "PBD Podcast",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@PBDPodcast",
+      "youtubeChannelId": "UCGX7nGXpz-CmO_Arg-cgJ7A"
+    },
+    {
+      "name": "The Peter McCormack Show",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@PeterMcCormackShow",
+      "youtubeChannelId": "UCzrWKkFIRS0kjZf7x24GdGg"
+    },
+    {
+      "name": "WTFinance",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@WTFinancepodcast",
+      "youtubeChannelId": "UCPI-DJWmId3Y-Dd1yI8LDnw"
+    },
+    {
+      "name": "Tommy's PodCast",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@TommysPodCastTPC",
+      "youtubeChannelId": "UCKuG1A3Mqp_RZ2ZdrVbV4FA"
+    },
+    {
+      "name": "Competent Investor Podcast - Tom Bodrovics",
+      "aliases": [
+        "The Competent Investor",
+        "Competent Investor"
+      ],
+      "youtubeUrl": "https://www.youtube.com/@CompetentInvestor",
+      "youtubeChannelId": "UC1ib0gVjpqsMNDV8NKcgUyQ"
+    },
+    {
+      "name": "ITM TRADING, INC.",
+      "aliases": [
+        "ITM Trading Podcast",
+        "ITM Trading"
+      ],
+      "youtubeUrl": "https://www.youtube.com/@itmtrading",
+      "youtubeChannelId": "UCom1i7_NVeSUNyJyuR_NbMQ"
+    },
+    {
+      "name": "Commodity Culture",
+      "aliases": [],
+      "rss": "https://rss.buzzsprout.com/1979283.rss",
+      "youtubeUrl": "https://www.youtube.com/@CommodityCulture",
+      "youtubeChannelId": "UC8n-nG-Wui_Ho1v_RgmJbTw"
+    },
+    {
+      "name": "Wealthion",
+      "aliases": [
+        "Wealthion - Be Financially Resilient"
+      ],
+      "rss": "https://feeds.megaphone.fm/GEMINIMEDIA5571845247",
+      "youtubeUrl": "https://www.youtube.com/@Wealthion",
+      "youtubeChannelId": "UCKMeK-HGHfUFFArZ91rzv5A"
+    },
+    {
+      "name": "Glenn Greenwald",
+      "aliases": [
+        "System Update with Glenn Greenwald",
+        "System Update"
+      ],
+      "youtubeUrl": "https://www.youtube.com/@GlennGreenwald",
+      "youtubeChannelId": "UChzVhAwzGR7hV-4O8ZmBLHg"
+    },
+    {
+      "name": "New Era Finance Podcast",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@NewEraFinancePodcast",
+      "youtubeChannelId": "UCGeGBMlAvIdK9ZDeCkQDE5Q"
+    },
+    {
+      "name": "The Meb Faber Show",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@mebfabershow",
+      "youtubeChannelId": "UCKvWzzrVUA_DSCoKXL6GU2w"
+    },
+    {
+      "name": "BTC Sessions",
+      "aliases": [],
+      "rss": "https://anchor.fm/s/11e95d20/podcast/rss",
+      "youtubeUrl": "https://www.youtube.com/@BTCSessions",
+      "youtubeChannelId": "UChzLnWVsl3puKQwc5PoO6Zg"
+    },
+    {
+      "name": "Natalie Brunell",
+      "aliases": [
+        "Coin Stories with Natalie Brunell",
+        "Coin Stories"
+      ],
+      "rss": "https://rss.libsyn.com/shows/344543/destinations/2813255.xml",
+      "youtubeUrl": "https://www.youtube.com/@nataliebrunell",
+      "youtubeChannelId": "UCru3nlhzHrbgK21x0MdB_eg"
+    },
+    {
+      "name": "David Lin",
+      "aliases": [
+        "The David Lin Report",
+        "David Lin Report"
+      ],
+      "rss": "https://anchor.fm/s/f37f9ba0/podcast/rss",
+      "youtubeUrl": "https://www.youtube.com/@TheDavidLinReport",
+      "youtubeChannelId": "UClBMLpP3UHXLmgEypMmXPuA"
+    },
+    {
+      "name": "TomWoodsTV",
+      "aliases": [
+        "The Tom Woods Show",
+        "Tom Woods"
+      ],
+      "youtubeUrl": "https://www.youtube.com/@TomWoodsTV",
+      "youtubeChannelId": "UCsgWR55UyAiFarZYl1u1l9Q"
+    },
+    {
+      "name": "DoubleLine Capital",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@DoubleLineCapital",
+      "youtubeChannelId": "UC5D18IyKtwxlSWVgEVfxBCQ"
+    },
+    {
+      "name": "The Compound",
+      "aliases": [
+        "The Compound and Friends"
+      ],
+      "youtubeUrl": "https://www.youtube.com/@TheCompoundNews",
+      "youtubeChannelId": "UCBRpqrzuuqE8TZcWw75JSdw"
+    },
+    {
+      "name": "The Wolf Of All Streets",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@ScottMelker",
+      "youtubeChannelId": "UCxIU1RFIdDpvA8VOITswQ1A"
+    },
+    {
+      "name": "Military Summary",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@militarysummary",
+      "youtubeChannelId": "UCUnc496-PPmFZVKlYxUnToA"
+    },
+    {
+      "name": "Simon Dixon",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@SimonDixon21",
+      "youtubeChannelId": "UC_wNYJCyycXXPmWni2JNZhQ"
+    },
+    {
+      "name": "The Julia La Roche Show",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@TheJuliaLaRocheShow",
+      "youtubeChannelId": "UCZzKVx5EBb42XoTQKCIllxg"
+    },
+    {
+      "name": "The Duran",
+      "aliases": [],
+      "rss": "https://anchor.fm/s/fc3f6c34/podcast/rss",
+      "youtubeUrl": "https://www.youtube.com/@TheDuran",
+      "youtubeChannelId": "UCdeMVChrumySxV9N1w0Au-w"
+    },
+    {
+      "name": "Saifedean Ammous",
+      "aliases": [
+        "The Bitcoin Standard Podcast"
+      ],
+      "youtubeUrl": "https://www.youtube.com/@saifedean",
+      "youtubeChannelId": "UCPsCJ1j0G45FnRGqJhCHLiA"
+    },
+    {
+      "name": "Kontrarian Korner",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@KontrarianKorner",
+      "youtubeChannelId": "UCn6WGwaZzMZuEfyUaFzJz7A"
+    },
+    {
+      "name": "Rich Does Politics",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@RichDoesPolitics",
+      "youtubeChannelId": "UC3sE-OIzExkhKVJK35YL_0A"
+    },
+    {
+      "name": "The James Delingpole Channel",
+      "aliases": [
+        "The Delingpod",
+        "Delingpole"
+      ],
+      "youtubeUrl": "https://www.youtube.com/@TheJamesDelingpoleChannel",
+      "youtubeChannelId": "UCur6nu-T7FilkEztCm_S8yA"
+    },
+    {
+      "name": "Antiwar News With Dave DeCamp",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@antiwarnews",
+      "youtubeChannelId": "UCuGQ0-iW7CPj-ul-DKHmh2A"
+    },
+    {
+      "name": "Baron Coleman",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@realbaronpodcast",
+      "youtubeChannelId": "UCkEowWfq-LO_3EEYYzKoSoA"
+    },
+    {
+      "name": "Bret Weinstein",
+      "aliases": [
+        "DarkHorse Podcast",
+        "DarkHorse"
+      ],
+      "youtubeUrl": "https://www.youtube.com/@DarkHorsePod",
+      "youtubeChannelId": "UCi5N_uAqApEUIlg32QzkPlg"
+    },
+    {
+      "name": "Dave Smith",
+      "aliases": [
+        "Part Of The Problem",
+        "Part of the Problem"
+      ],
+      "youtubeUrl": "https://www.youtube.com/@PartOfTheProblem",
+      "youtubeChannelId": "UCEfe80CP2cs1eLRNQazffZw"
+    },
+    {
+      "name": "Shaun Newman Podcast",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@ShaunNewmanPodcast",
+      "youtubeChannelId": "UCZih5_OeIf8Zg-LudmE8aJg"
+    },
+    {
+      "name": "42 Macro",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@42Macro",
+      "youtubeChannelId": "UCu0L0QCubkYD3Cd9jSdxTNQ"
+    },
+    {
+      "name": "Kitco NEWS",
+      "aliases": [],
+      "youtubeChannelId": "UC9ijza42jVR3T6b8bColgvg",
+      "youtubeUrl": "https://www.youtube.com/user/KitcoNews",
+      "rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9ijza42jVR3T6b8bColgvg"
+    },
+    {
+      "name": "Michael Farris (Coffee and a Mike)",
+      "aliases": [
+        "Coffee and a Mike"
+      ],
+      "youtubeUrl": "https://www.youtube.com/@Coffeeandamike",
+      "youtubeChannelId": "UCEusoj7GZkHtEB4MX0EWbTA"
+    },
+    {
+      "name": "CapitalCosm",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@capitalcosm",
+      "youtubeChannelId": "UCaHcyeCeN0GXHvLFgDWSOxg"
+    },
+    {
+      "name": "Miles Franklin Media",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@MilesFranklinMedia",
+      "youtubeChannelId": "UC_EzgYSqu4a6-Po65FxAoKg"
+    },
+    {
+      "name": "Ian Carroll",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@Iancarrollshow",
+      "youtubeChannelId": "UCCgpGpylCfrJIV-RwA_L7tg"
+    },
+    {
+      "name": "RiskReversal Media",
+      "aliases": [
+        "RiskReversal Pod",
+        "Risk Reversal"
+      ],
+      "youtubeUrl": "https://www.youtube.com/@RiskReversalMedia",
+      "youtubeChannelId": "UCRAOycPjsSgcEyQcuJD_ENA"
+    },
+    {
+      "name": "What Bitcoin Did",
+      "aliases": [],
+      "rss": "https://feeds.fountain.fm/UZSKQcrOnhqYS1JopxGg",
+      "youtubeUrl": "https://www.youtube.com/@WhatBitcoinDidPod",
+      "youtubeChannelId": "UCtvg5cXLY_tHDJeBoRySBtg"
+    },
+    {
+      "name": "Elizabeth Lane TV",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@ElizabethLaneShow",
+      "youtubeChannelId": "UCi26x0mPz5ghf4QVbknY1DA"
+    },
+    {
+      "name": "Scott Horton",
+      "aliases": [
+        "Scott Horton Show",
+        "Scott Horton Show - Just the Interviews"
+      ],
+      "rss": "https://feeds.feedburner.com/Scotthortonshow",
+      "youtubeUrl": "https://www.youtube.com/@scotthortonshow",
+      "youtubeChannelId": "UCbGRav5Z8hKdPEO9oN7ekMw"
+    },
+    {
+      "name": "Candace Owens",
+      "aliases": [
+        "Candace"
+      ],
+      "youtubeUrl": "https://www.youtube.com/@RealCandaceO",
+      "youtubeChannelId": "UCL0u5uz7KZ9q-pe-VC8TY-w"
+    },
+    {
+      "name": "Liberty Lockdown",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@LibertyLockdown",
+      "youtubeChannelId": "UCJeZwRfSPX00f4bB7gOeN5w"
+    },
+    {
+      "name": "The Monetary Matters Network",
+      "aliases": [
+        "Monetary Matters",
+        "Monetary Matters with Jack Farley"
+      ],
+      "youtubeUrl": "https://www.youtube.com/@Monetary-Matters",
+      "youtubeChannelId": "UCeyqw1Ns_cnhSJh5XvXPWgw"
+    },
+    {
+      "name": "Alex Krainer",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@kraineralex",
+      "youtubeChannelId": "UCAqRpyLzC4xanGQQQtxW0qQ"
+    },
+    {
+      "name": "The Covered Call Podcast",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@TheCoveredCall",
+      "youtubeChannelId": "UCBXfXF6a1D_X2T8Sf4Od9iA"
+    },
+    {
+      "name": "Eurodollar Talk",
+      "aliases": [
+        "Eurodollar University",
+        "Eurodollar Talk"
+      ],
+      "rss": "https://feeds.transistor.fm/making-sense",
+      "youtubeUrl": "https://www.youtube.com/@EurodollarTalk",
+      "youtubeChannelId": "UCK5-mZOjofBzueSY-T8iayA"
+    },
+    {
+      "name": "Danielle DiMartino Booth",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@DanielleDiMartinoBoothQI",
+      "youtubeChannelId": "UCYPBim2ARV9Yrqci0ljokFA"
+    },
+    {
+      "name": "Peak Prosperity",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@PeakProsperity",
+      "youtubeChannelId": "UCD2-QVBQi48RRQTD4Jhxu8w"
+    },
+    {
+      "name": "Zero Hedge",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@zerohedge",
+      "youtubeChannelId": "UCaO9gH0HOmvXjZg_tMG0lLQ"
+    },
+    {
+      "name": "AlasVi TV Pods",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@AlasViTVPods",
+      "youtubeChannelId": "UCJ9YPzjfRIUCIydHVL5Uf-g"
+    },
+    {
+      "name": "Julian Dorey",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@JulianDorey",
+      "youtubeChannelId": "UC0A-v_DL-h76F75xik8h03Q"
+    },
+    {
+      "name": "Macro Voices",
+      "aliases": [],
+      "rss": "https://feed.podbean.com/macrovoices/feed.xml",
+      "youtubeUrl": "https://www.youtube.com/@macrovoices7508",
+      "youtubeChannelId": "UCICRehoZjq3ZtAWgRJX118A"
+    },
+    {
+      "name": "Mine Print Hash",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@MinePrintHash",
+      "youtubeChannelId": "UCcm4fLouWPZ7syCqxGnt6GQ"
+    },
+    {
+      "name": "Palisades Gold Radio",
+      "aliases": [],
+      "rss": "https://palisadesradio.ca/feed/podcast/",
+      "youtubeUrl": "https://www.youtube.com/@PalisadeRadio",
+      "youtubeChannelId": "UC6X0ttmzTAJt_2ebcqcIbYw"
+    },
+    {
+      "name": "Forward Guidance",
+      "aliases": [],
+      "rss": "https://feeds.megaphone.fm/forwardguidance",
+      "youtubeUrl": "https://www.youtube.com/@ForwardGuidanceBW",
+      "youtubeChannelId": "UCkrwgzhIBKccuDsi_SvZtnQ"
+    },
+    {
+      "name": "Monkey Werx",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@MonkeyWerx",
+      "youtubeChannelId": "UCUmvAVqbS-_5feqZPHA99Lw"
+    },
+    {
+      "name": "OKC Facts",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@okc_facts"
+    },
+    {
+      "name": "Market Talk with George Noble",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@nobull-markettalkwithgeorg4907",
+      "youtubeChannelId": "UCVI0KVDv9Pgr9TrEgc83CaA"
+    },
+    {
+      "name": "On The Tape with Danny Moses",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@OnTheTape",
+      "youtubeChannelId": "UCe8y7CzcjhMPTzem-Zn6sqA"
+    },
+    {
+      "name": "Bitcoin Archive",
+      "aliases": [
+        "Bitcoin Archive w Archie"
+      ],
+      "youtubeUrl": "https://www.youtube.com/@BitcoinArchive",
+      "youtubeChannelId": "UC7Da3hauf8II7Dbjj0CILaQ"
+    },
+    {
+      "name": "Adrian Day",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@AdrianDayInvest",
+      "youtubeChannelId": "UCX9vljzpZuqaO1Fr8KL1XdA"
+    },
+    {
+      "name": "Oxbow Advisors",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@OxbowAdvisors",
+      "youtubeChannelId": "UCuIid-uo26jdYNT67Rd4STQ"
+    },
+    {
+      "name": "Luke Gromen - FFTT, LLC",
+      "aliases": [
+        "Luke Gromen",
+        "FFTT",
+        "FFTT LLC"
+      ],
+      "youtubeChannelId": "UC3dgTGurzmoefBchduxs4Gg",
+      "youtubeUrl": "https://www.youtube.com/@FFTT",
+      "rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3dgTGurzmoefBchduxs4Gg"
+    },
+    {
+      "name": "Tom Luongo",
+      "aliases": [
+        "Gold Goats 'n Guns Podcast",
+        "Gold Goats n Guns"
+      ],
+      "youtubeUrl": "https://www.youtube.com/@ThomasLuongo",
+      "youtubeChannelId": "UC54PyZuVrDrhbWc6UqNjEBA"
+    },
+    {
+      "name": "UnHerd",
+      "aliases": [
+        "UnHerd with Freddie Sayers"
+      ],
+      "youtubeUrl": "https://www.youtube.com/@UnHerd",
+      "youtubeChannelId": "UCMxiv15iK_MFayY_3fU9loQ"
+    },
+    {
+      "name": "The Market Huddle",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@TheMarketHuddle",
+      "youtubeChannelId": "UCTNgTBKATr18Z7kR32rKOBw"
+    },
+    {
+      "name": "The Grayzone",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@thegrayzone7996",
+      "youtubeChannelId": "UCEXR8pRTkE2vFeJePNe9UcQ"
+    },
+    {
+      "name": "The Bitcoin Matrix Podcast",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@thebitcoinmatrixpodcast",
+      "youtubeChannelId": "UCWll9RyTcxsBfHHe09O2s2A"
+    },
+    {
+      "name": "Checkonchain",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@checkonchain",
+      "youtubeChannelId": "UCGldOK1JzL_SMYwpie4A5fQ"
+    },
+    {
+      "name": "The Bitcoin Layer",
+      "aliases": [],
+      "youtubeUrl": "https://www.youtube.com/@TheBitcoinLayer",
+      "youtubeChannelId": "UCDo6-SUypaXlTmH6AyrYBZA"
+    },
+    {
+      "name": "CrossBorder Capital",
+      "aliases": [
+        "Michael Howell"
+      ],
+      "youtubeChannelId": "UCpXVkhFn-3AljDFH8mDi51Q",
+      "youtubeUrl": "https://www.youtube.com/@crossbordercapital3019",
+      "rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpXVkhFn-3AljDFH8mDi51Q"
+    }
+  ],
+  "notes": "Canonical YouTube channel URLs are provided where confidently matched; retained RSS fields are for feed discovery only."
+}

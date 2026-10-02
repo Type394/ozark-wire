@@ -1,0 +1,53 @@
+{
+  "editions": [
+    {
+      "id": "daily-2026-10-02",
+      "type": "daily",
+      "date": "2026-10-02",
+      "file": "daily-2026-10-02.json",
+      "title": "Daily Brief"
+    },
+    {
+      "id": "daily-2026-10-01",
+      "type": "daily",
+      "date": "2026-10-01",
+      "file": "daily-2026-10-01.json",
+      "title": "Daily Brief"
+    },
+    {
+      "id": "daily-2026-09-30",
+      "type": "daily",
+      "date": "2026-09-30",
+      "file": "daily-2026-09-30.json",
+      "title": "Daily Brief"
+    },
+    {
+      "id": "daily-2026-09-18",
+      "type": "daily",
+      "date": "2026-09-18",
+      "file": "daily-2026-09-18.json",
+      "title": "Daily Brief"
+    },
+    {
+      "id": "daily-2026-09-17",
+      "type": "daily",
+      "date": "2026-09-17",
+      "file": "daily-2026-09-17.json",
+      "title": "Daily Brief"
+    },
+    {
+      "id": "weekly-2026-09-14",
+      "type": "weekly",
+      "date": "2026-09-14",
+      "file": "weekly-2026-09-14.json",
+      "title": "Weekly Brief"
+    },
+    {
+      "id": "forward-2026-09",
+      "type": "forward",
+      "date": "2026-09-01",
+      "file": "forward-2026-09.json",
+      "title": "Forward Look \u2014 September"
+    }
+  ]
+}

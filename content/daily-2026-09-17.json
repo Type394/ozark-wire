@@ -1,0 +1,79 @@
+{
+  "type": "daily",
+  "date": "2026-09-17",
+  "label": "SAMPLE",
+  "title": "Daily Brief",
+  "prices": {
+    "btc": 94820,
+    "gold": 2684,
+    "copper": 4.52,
+    "wti": 71.4,
+    "brent": 74.8,
+    "tenY": 4.12,
+    "muel": 380,
+    "shaGoldPrem": -32,
+    "cattle": 218.9
+  },
+  "items": [
+    {
+      "n": 1,
+      "category": "GEO",
+      "headline": "Strait of Hormuz traffic slows as insurance premiums spike overnight",
+      "bullets": [
+        "War-risk rates for VLCC passages jumped after overnight drone activity near Bandar Abbas; two majors paused new bookings pending guidance.",
+        "Energy desks mark a 2–4 day disruption premium into front-month crude; refined-product cracks already reflecting the scare.",
+        "Watch: whether USN escorts resume the informal corridor protocol used in 2024 — markets price that faster than diplomacy."
+      ]
+    },
+    {
+      "n": 2,
+      "category": "BTC",
+      "headline": "Spot ETF inflows resume after three-session pause; basis remains orderly",
+      "bullets": [
+        "Combined US spot BTC ETF flows flipped positive (~$420M) after a brief risk-off flush; CME basis stayed inside a normal carry band.",
+        "On-chain: exchange reserves flat-to-down; long-term holder supply still grinding higher — not a distribution tape.",
+        "Hard-money read: liquidity returned without leverage blowups. That is the healthy path."
+      ]
+    },
+    {
+      "n": 3,
+      "category": "GOLD",
+      "headline": "Bullion holds bid as real yields soften into FOMC blackout",
+      "bullets": [
+        "COMEX gold firmed on softer 10y TIPS; ETF holdings edged higher for a second session.",
+        "Central-bank buying narrative intact — Asia physical premiums remain elevated vs London.",
+        "Metals desk note: silver lagging gold again; ratio still favors gold as the macro hedge of choice this week."
+      ]
+    },
+    {
+      "n": 4,
+      "category": "MACRO",
+      "headline": "Claims soft, payrolls revisions still the quiet story",
+      "bullets": [
+        "Initial claims printed below consensus; continuing claims drift sideways — labor cooling, not cracking.",
+        "Prior-month payroll revisions remain the underappreciated signal for late-cycle softness.",
+        "Rates: curve still inverted on the belly; markets lean toward a patient Fed, not a panic cut."
+      ]
+    },
+    {
+      "n": 5,
+      "category": "ENERGY",
+      "headline": "WTI range-bound; distillate inventories the real tell",
+      "bullets": [
+        "Crude held $70–73 as geopolitics and soft demand cancel each other; product cracks doing the work.",
+        "Distillate draws in the Midwest remain firmer than seasonal norms — diesel, not gasoline, is the hinge.",
+        "If Hormuz risk fades by Friday, expect a give-back into the range midpoint."
+      ]
+    },
+    {
+      "n": 6,
+      "category": "INTEL",
+      "headline": "Open-source: satellite revisit cadence rises over key Persian Gulf terminals",
+      "bullets": [
+        "Commercial SAR tasking density increased over loading berths and nearby islands over 48h — pattern consistent with contingency monitoring, not a one-off look.",
+        "No confirmed kinetic strikes on export infrastructure as of this brief; signal is readiness, not aftermath.",
+        "Treat social footage as unverified until geolocated against known terminals."
+      ]
+    }
+  ]
+}

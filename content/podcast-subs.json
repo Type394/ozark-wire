@@ -1,0 +1,613 @@
+{
+  "updated": "2026-09-29T15:25:32-05:00",
+  "source": "Christopher Podcast Addict library export (investment-committee-march2026/podcast_addict_subscriptions.txt)",
+  "count": 121,
+  "shows": [
+    {
+      "name": "\"YOUR WELCOME\" with Michael Malice",
+      "rss": "https://rss.art19.com/your-welcome-pod",
+      "url": "https://rss.art19.com/your-welcome-pod"
+    },
+    {
+      "name": "Adam Carolla Show",
+      "rss": "https://rss.pdrl.fm/c1114b/rss.art19.com/adam-carolla-show",
+      "url": "https://rss.pdrl.fm/c1114b/rss.art19.com/adam-carolla-show"
+    },
+    {
+      "name": "After Party with Emily Jashinsky",
+      "rss": "https://feeds.simplecast.com/SBwa8H9v",
+      "url": "https://feeds.simplecast.com/SBwa8H9v"
+    },
+    {
+      "name": "Alas Vine & Hitchens",
+      "rss": "https://feeds.acast.com/public/shows/6846a0a6a13d3373734aa05d",
+      "url": "https://feeds.acast.com/public/shows/6846a0a6a13d3373734aa05d"
+    },
+    {
+      "name": "All-In with Chamath, Jason, Sacks & Friedberg",
+      "rss": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml"
+    },
+    {
+      "name": "Animal Spirits Podcast",
+      "rss": "https://feeds.megaphone.fm/TCP6464651487",
+      "url": "https://feeds.megaphone.fm/TCP6464651487"
+    },
+    {
+      "name": "Bankless",
+      "rss": "https://feeds.flightcast.com/p83fuj0y0u58o82l41xei7zo.xml",
+      "url": "https://feeds.flightcast.com/p83fuj0y0u58o82l41xei7zo.xml"
+    },
+    {
+      "name": "Bitcoin Archive w Archie",
+      "rss": "https://anchor.fm/s/102701540/podcast/rss",
+      "url": "https://anchor.fm/s/102701540/podcast/rss"
+    },
+    {
+      "name": "Breaking Points with Krystal and Saagar",
+      "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/4c1a5135-4197-47c9-b19b-b0ab0164b667/podcast.rss",
+      "url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/4c1a5135-4197-47c9-b19b-b0ab0164b667/podcast.rss"
+    },
+    {
+      "name": "Brownstone Journal",
+      "rss": "https://audio.beyondwords.io/f/49654/150638",
+      "url": "https://audio.beyondwords.io/f/49654/150638"
+    },
+    {
+      "name": "BTC Sessions",
+      "rss": "https://anchor.fm/s/11e95d20/podcast/rss",
+      "url": "https://anchor.fm/s/11e95d20/podcast/rss"
+    },
+    {
+      "name": "Camp of the Saints by Jean Raspail",
+      "rss": "https://anchor.fm/s/f4f8dbcc/podcast/rss",
+      "url": "https://anchor.fm/s/f4f8dbcc/podcast/rss"
+    },
+    {
+      "name": "Candace",
+      "rss": "https://feeds.megaphone.fm/candace",
+      "url": "https://feeds.megaphone.fm/candace"
+    },
+    {
+      "name": "Christian White",
+      "rss": "https://anchor.fm/s/f7454118/podcast/rss",
+      "url": "https://anchor.fm/s/f7454118/podcast/rss"
+    },
+    {
+      "name": "Coffee and a Mike",
+      "rss": "https://rss.libsyn.com/shows/131060/destinations/797488.xml",
+      "url": "https://rss.libsyn.com/shows/131060/destinations/797488.xml"
+    },
+    {
+      "name": "Coin Stories with Natalie Brunell",
+      "rss": "https://rss.libsyn.com/shows/344543/destinations/2813255.xml",
+      "url": "https://rss.libsyn.com/shows/344543/destinations/2813255.xml"
+    },
+    {
+      "name": "Commodity Culture",
+      "rss": "https://rss.buzzsprout.com/1979283.rss",
+      "url": "https://rss.buzzsprout.com/1979283.rss"
+    },
+    {
+      "name": "Consequential Actions Podcast",
+      "rss": "https://api.substack.com/feed/podcast/465374/s/4746.rss",
+      "url": "https://api.substack.com/feed/podcast/465374/s/4746.rss"
+    },
+    {
+      "name": "Crypto Banter",
+      "rss": "https://anchor.fm/s/103031cb4/podcast/rss",
+      "url": "https://anchor.fm/s/103031cb4/podcast/rss"
+    },
+    {
+      "name": "Danny Jones Podcast",
+      "rss": "https://feeds.megaphone.fm/QCD2752074976",
+      "url": "https://feeds.megaphone.fm/QCD2752074976"
+    },
+    {
+      "name": "DarkHorse Podcast",
+      "rss": "https://rss.buzzsprout.com/424075.rss",
+      "url": "https://rss.buzzsprout.com/424075.rss"
+    },
+    {
+      "name": "Dialogue Works",
+      "rss": "https://feeds.acast.com/public/shows/66ee295c5eb59bbcaeb51e6d",
+      "url": "https://feeds.acast.com/public/shows/66ee295c5eb59bbcaeb51e6d"
+    },
+    {
+      "name": "Energy News Beat Podcast",
+      "rss": "https://feeds.blubrry.com/feeds/energynewsbeat.xml",
+      "url": "https://feeds.blubrry.com/feeds/energynewsbeat.xml"
+    },
+    {
+      "name": "Eurodollar University",
+      "rss": "https://feeds.transistor.fm/making-sense",
+      "url": "https://feeds.transistor.fm/making-sense"
+    },
+    {
+      "name": "Forward Guidance",
+      "rss": "https://feeds.megaphone.fm/forwardguidance",
+      "url": "https://feeds.megaphone.fm/forwardguidance"
+    },
+    {
+      "name": "Glenn Diesen - Greater Eurasia Podcast",
+      "rss": "https://anchor.fm/s/fa789f4c/podcast/rss",
+      "url": "https://anchor.fm/s/fa789f4c/podcast/rss"
+    },
+    {
+      "name": "Gold Goats 'n Guns Podcast",
+      "rss": "https://spreaker.com/show/3131277/episodes/feed",
+      "url": "https://spreaker.com/show/3131277/episodes/feed"
+    },
+    {
+      "name": "Gold Fix with Vince Lanci",
+      "rss": "https://vblgoldfix.substack.com/feed",
+      "url": "https://vblgoldfix.substack.com/feed"
+    },
+    {
+      "name": "Hidden Forces",
+      "rss": "https://hiddenforces.libsyn.com/rss",
+      "url": "https://hiddenforces.libsyn.com/rss"
+    },
+    {
+      "name": "ITM Trading Podcast",
+      "rss": "https://anchor.fm/s/4aaf7d10/podcast/rss",
+      "url": "https://anchor.fm/s/4aaf7d10/podcast/rss"
+    },
+    {
+      "name": "Jack Neel Podcast",
+      "rss": "https://anchor.fm/s/10d9805f4/podcast/rss",
+      "url": "https://anchor.fm/s/10d9805f4/podcast/rss"
+    },
+    {
+      "name": "JIM WEBB PODCAST",
+      "rss": "https://feeds.redcircle.com/3bb266be-3a30-4d3b-81b2-ba7185c23d8a",
+      "url": "https://feeds.redcircle.com/3bb266be-3a30-4d3b-81b2-ba7185c23d8a"
+    },
+    {
+      "name": "Julian Dorey Podcast",
+      "rss": "https://feeds.megaphone.fm/QCD7565826865",
+      "url": "https://feeds.megaphone.fm/QCD7565826865"
+    },
+    {
+      "name": "Kontrarian Korner",
+      "rss": "https://api.substack.com/feed/podcast/1525568.rss",
+      "url": "https://api.substack.com/feed/podcast/1525568.rss"
+    },
+    {
+      "name": "KunstlerCast - Conversations: Converging Catastrophes of the 21st Century",
+      "rss": "https://rss.libsyn.com/shows/19046/destinations/14822.xml",
+      "url": "https://rss.libsyn.com/shows/19046/destinations/14822.xml"
+    },
+    {
+      "name": "Kyle Anzalone Show",
+      "rss": "https://feeds.redcircle.com/f69e5975-97e1-4973-9766-5e2ede6ad115",
+      "url": "https://feeds.redcircle.com/f69e5975-97e1-4973-9766-5e2ede6ad115"
+    },
+    {
+      "name": "Learn Dutch | DutchPod101.com",
+      "rss": "https://www.dutchpod101.com/podcast/apple/feed",
+      "url": "https://www.dutchpod101.com/podcast/apple/feed"
+    },
+    {
+      "name": "Liberty Lockdown",
+      "rss": "https://anchor.fm/s/112e5d1a8/podcast/rss",
+      "url": "https://anchor.fm/s/112e5d1a8/podcast/rss"
+    },
+    {
+      "name": "Macro Mondays",
+      "rss": "https://rss.buzzsprout.com/2206288.rss",
+      "url": "https://rss.buzzsprout.com/2206288.rss"
+    },
+    {
+      "name": "Macro Voices",
+      "rss": "https://feed.podbean.com/macrovoices/feed.xml",
+      "url": "https://feed.podbean.com/macrovoices/feed.xml"
+    },
+    {
+      "name": "Macroscopic Podcast",
+      "rss": "https://feeds.megaphone.fm/macroscopic",
+      "url": "https://feeds.megaphone.fm/macroscopic"
+    },
+    {
+      "name": "Maggie Lake Talking Markets",
+      "rss": "https://anchor.fm/s/fab7af70/podcast/rss",
+      "url": "https://anchor.fm/s/fab7af70/podcast/rss"
+    },
+    {
+      "name": "Max Blumenthal",
+      "rss": "https://api.substack.com/feed/podcast/474765.rss",
+      "url": "https://api.substack.com/feed/podcast/474765.rss"
+    },
+    {
+      "name": "Mine Print Hash",
+      "rss": "https://api.substack.com/feed/podcast/3184485.rss",
+      "url": "https://api.substack.com/feed/podcast/3184485.rss"
+    },
+    {
+      "name": "Mining Stock Education",
+      "rss": "https://feeds.soundcloud.com/users/soundcloud:users:135447110/sounds.rss",
+      "url": "https://feeds.soundcloud.com/users/soundcloud:users:135447110/sounds.rss"
+    },
+    {
+      "name": "Monetary Matters with Jack Farley",
+      "rss": "https://feeds.megaphone.fm/EWWMN1909747317",
+      "url": "https://feeds.megaphone.fm/EWWMN1909747317"
+    },
+    {
+      "name": "Natural Resource Stocks",
+      "rss": "https://feeds.castos.com/oz075",
+      "url": "https://feeds.castos.com/oz075"
+    },
+    {
+      "name": "Next Up with Mark Halperin",
+      "rss": "https://feeds.simplecast.com/NBguu3Vc",
+      "url": "https://feeds.simplecast.com/NBguu3Vc"
+    },
+    {
+      "name": "On The Tape with Danny Moses",
+      "rss": "https://feeds.acast.com/public/shows/68dbe57346a2532cdd5600b8",
+      "url": "https://feeds.acast.com/public/shows/68dbe57346a2532cdd5600b8"
+    },
+    {
+      "name": "Palisades Gold Radio",
+      "rss": "https://palisadesradio.ca/feed/podcast/",
+      "url": "https://palisadesradio.ca/feed/podcast/"
+    },
+    {
+      "name": "Part Of The Problem",
+      "rss": "https://rss.art19.com/part-of-the-problem",
+      "url": "https://rss.art19.com/part-of-the-problem"
+    },
+    {
+      "name": "PBD Podcast",
+      "rss": "https://anchor.fm/s/2fa50a94/podcast/rss",
+      "url": "https://anchor.fm/s/2fa50a94/podcast/rss"
+    },
+    {
+      "name": "Peak Prosperity",
+      "rss": "https://feeds.blubrry.com/feeds/1469494.xml",
+      "url": "https://feeds.blubrry.com/feeds/1469494.xml"
+    },
+    {
+      "name": "Peter St Onge Podcast",
+      "rss": "https://rss.buzzsprout.com/2176502.rss",
+      "url": "https://rss.buzzsprout.com/2176502.rss"
+    },
+    {
+      "name": "Piers Morgan Uncensored",
+      "rss": "https://feeds.megaphone.fm/RSV2152356740",
+      "url": "https://feeds.megaphone.fm/RSV2152356740"
+    },
+    {
+      "name": "Provoked with Darryl Cooper and Scott Horton",
+      "rss": "https://feeds.megaphone.fm/provoked",
+      "url": "https://feeds.megaphone.fm/provoked"
+    },
+    {
+      "name": "Real Baron Podcast",
+      "rss": "https://media.rss.com/real-baron-podcast/feed.xml",
+      "url": "https://media.rss.com/real-baron-podcast/feed.xml"
+    },
+    {
+      "name": "Red Scare",
+      "rss": "https://redscarepodcast.libsyn.com/rss",
+      "url": "https://redscarepodcast.libsyn.com/rss"
+    },
+    {
+      "name": "Reinvent Money",
+      "rss": "https://anchor.fm/s/c25d6818/podcast/rss",
+      "url": "https://anchor.fm/s/c25d6818/podcast/rss"
+    },
+    {
+      "name": "RiskReversal Pod",
+      "rss": "https://feeds.megaphone.fm/RRM5151570998",
+      "url": "https://feeds.megaphone.fm/RRM5151570998"
+    },
+    {
+      "name": "Scott Horton Show - Just the Interviews",
+      "rss": "https://feeds.feedburner.com/Scotthortonshow",
+      "url": "https://feeds.feedburner.com/Scotthortonshow"
+    },
+    {
+      "name": "Shaun Newman Podcast",
+      "rss": "https://anchor.fm/s/935aecc/podcast/rss",
+      "url": "https://anchor.fm/s/935aecc/podcast/rss"
+    },
+    {
+      "name": "Simon Dixon Hard Talk",
+      "rss": "https://app.kajabi.com/podcasts/2147638027/feed",
+      "url": "https://app.kajabi.com/podcasts/2147638027/feed"
+    },
+    {
+      "name": "Simply Bitcoin",
+      "rss": "https://anchor.fm/s/717a2198/podcast/rss",
+      "url": "https://anchor.fm/s/717a2198/podcast/rss"
+    },
+    {
+      "name": "Soar Financially",
+      "rss": "https://anchor.fm/s/1d15990c/podcast/rss",
+      "url": "https://anchor.fm/s/1d15990c/podcast/rss"
+    },
+    {
+      "name": "Sprott Money News",
+      "rss": "https://feeds.soundcloud.com/users/soundcloud:users:60435825/sounds.rss",
+      "url": "https://feeds.soundcloud.com/users/soundcloud:users:60435825/sounds.rss"
+    },
+    {
+      "name": "Swan Signal Live - A Bitcoin Show",
+      "rss": "https://feeds.simplecast.com/Z1tu2Hds",
+      "url": "https://feeds.simplecast.com/Z1tu2Hds"
+    },
+    {
+      "name": "Switzerland with Tom Switzer",
+      "rss": "https://feed.podbean.com/tomswitzer/feed.xml",
+      "url": "https://feed.podbean.com/tomswitzer/feed.xml"
+    },
+    {
+      "name": "System Update with Glenn Greenwald",
+      "rss": "https://rss.libsyn.com/shows/576240/destinations/4990800.xml",
+      "url": "https://rss.libsyn.com/shows/576240/destinations/4990800.xml"
+    },
+    {
+      "name": "Talk Breakfast",
+      "rss": "https://feeds.acast.com/public/shows/34932428-778c-4f95-9689-3a28096d8a3b",
+      "url": "https://feeds.acast.com/public/shows/34932428-778c-4f95-9689-3a28096d8a3b"
+    },
+    {
+      "name": "TFTC: A Bitcoin Podcast",
+      "rss": "https://feeds.fountain.fm/ZwwaDULvAj0yZvJ5kdB9",
+      "url": "https://feeds.fountain.fm/ZwwaDULvAj0yZvJ5kdB9"
+    },
+    {
+      "name": "The \"What is Money?\" Show",
+      "rss": "https://feeds.simplecast.com/MLdpYXYI",
+      "url": "https://feeds.simplecast.com/MLdpYXYI"
+    },
+    {
+      "name": "The Adam and Dr. Drew Show",
+      "rss": "https://rss.art19.com/the-adam-and-dr-drew-show",
+      "url": "https://rss.art19.com/the-adam-and-dr-drew-show"
+    },
+    {
+      "name": "The Auron MacIntyre Show",
+      "rss": "https://feeds.megaphone.fm/auron",
+      "url": "https://feeds.megaphone.fm/auron"
+    },
+    {
+      "name": "The Bitcoin Layer",
+      "rss": "https://feeds.simplecast.com/Y2219Riv",
+      "url": "https://feeds.simplecast.com/Y2219Riv"
+    },
+    {
+      "name": "THE Bitcoin Podcast",
+      "rss": "https://feeds.fountain.fm/VV0f6IwusQoi5kOqvNCx",
+      "url": "https://feeds.fountain.fm/VV0f6IwusQoi5kOqvNCx"
+    },
+    {
+      "name": "The Bitcoin Standard Podcast",
+      "rss": "https://rss.buzzsprout.com/1849151.rss",
+      "url": "https://rss.buzzsprout.com/1849151.rss"
+    },
+    {
+      "name": "The Brownstone Show",
+      "rss": "https://api.substack.com/feed/podcast/792565/s/333552.rss",
+      "url": "https://api.substack.com/feed/podcast/792565/s/333552.rss"
+    },
+    {
+      "name": "The Café Bitcoin Podcast",
+      "rss": "https://feeds.simplecast.com/H9Jmx_ko",
+      "url": "https://feeds.simplecast.com/H9Jmx_ko"
+    },
+    {
+      "name": "The Competent Investor",
+      "rss": "https://competentinvestor.com/feed/podcast/",
+      "url": "https://competentinvestor.com/feed/podcast/"
+    },
+    {
+      "name": "The Compound and Friends",
+      "rss": "https://feeds.megaphone.fm/TCP4771071679",
+      "url": "https://feeds.megaphone.fm/TCP4771071679"
+    },
+    {
+      "name": "The Contrarian Capitalist Podcast",
+      "rss": "https://api.substack.com/feed/podcast/1215998.rss",
+      "url": "https://api.substack.com/feed/podcast/1215998.rss"
+    },
+    {
+      "name": "The David Lin Report",
+      "rss": "https://anchor.fm/s/f37f9ba0/podcast/rss",
+      "url": "https://anchor.fm/s/f37f9ba0/podcast/rss"
+    },
+    {
+      "name": "The Delingpod: The James Delingpole Podcast",
+      "rss": "https://delingpole.podbean.com/feed.xml",
+      "url": "https://delingpole.podbean.com/feed.xml"
+    },
+    {
+      "name": "The Duran Podcast",
+      "rss": "https://anchor.fm/s/fc3f6c34/podcast/rss",
+      "url": "https://anchor.fm/s/fc3f6c34/podcast/rss"
+    },
+    {
+      "name": "The Gold Exchange Podcast",
+      "rss": "https://www.spreaker.com/show/6326355/episodes/feed",
+      "url": "https://www.spreaker.com/show/6326355/episodes/feed"
+    },
+    {
+      "name": "The Grant Williams Podcast",
+      "rss": "https://feed.podbean.com/ttmygh/feed.xml",
+      "url": "https://feed.podbean.com/ttmygh/feed.xml"
+    },
+    {
+      "name": "The Grayzone on Odysee",
+      "rss": "https://odysee.com/$/rss/@TheGrayzone:c",
+      "url": "https://odysee.com/$/rss/@TheGrayzone:c"
+    },
+    {
+      "name": "The Higherside Chats",
+      "rss": "https://feeds.podcastmirror.com/higherside-chats",
+      "url": "https://feeds.podcastmirror.com/higherside-chats"
+    },
+    {
+      "name": "The Imagination",
+      "rss": "https://rss.buzzsprout.com/1255355.rss",
+      "url": "https://rss.buzzsprout.com/1255355.rss"
+    },
+    {
+      "name": "The Income Show",
+      "rss": "https://feeds.fountain.fm/AIx6pjyyvuY12UIECZwe",
+      "url": "https://feeds.fountain.fm/AIx6pjyyvuY12UIECZwe"
+    },
+    {
+      "name": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
+      "rss": "https://feeds.megaphone.fm/PPLLC8974708240",
+      "url": "https://feeds.megaphone.fm/PPLLC8974708240"
+    },
+    {
+      "name": "The Jimmy Dore Show",
+      "rss": "https://thejimmydoreshow.libsyn.com/rss",
+      "url": "https://thejimmydoreshow.libsyn.com/rss"
+    },
+    {
+      "name": "The Joe Rogan Experience",
+      "rss": "https://feeds.megaphone.fm/GLT1412515089",
+      "url": "https://feeds.megaphone.fm/GLT1412515089"
+    },
+    {
+      "name": "The Julia La Roche Show",
+      "rss": "https://anchor.fm/s/41aa63c4/podcast/rss",
+      "url": "https://anchor.fm/s/41aa63c4/podcast/rss"
+    },
+    {
+      "name": "The Macro Dirt Podcast",
+      "rss": "https://anchor.fm/s/f7e06fa8/podcast/rss",
+      "url": "https://anchor.fm/s/f7e06fa8/podcast/rss"
+    },
+    {
+      "name": "The Market Huddle",
+      "rss": "https://markethuddle.com/feed/podcast/",
+      "url": "https://markethuddle.com/feed/podcast/"
+    },
+    {
+      "name": "The Meb Faber Show - Better Investing",
+      "rss": "https://feeds.megaphone.fm/TIFM6133783130",
+      "url": "https://feeds.megaphone.fm/TIFM6133783130"
+    },
+    {
+      "name": "The Megyn Kelly Show",
+      "rss": "https://feeds.simplecast.com/RV1USAfC",
+      "url": "https://feeds.simplecast.com/RV1USAfC"
+    },
+    {
+      "name": "The Mel K Show",
+      "rss": "https://feed.podbean.com/TheMelKShow/feed.xml",
+      "url": "https://feed.podbean.com/TheMelKShow/feed.xml"
+    },
+    {
+      "name": "The Noble Update Podcast",
+      "rss": "https://api.substack.com/feed/podcast/2899640.rss",
+      "url": "https://api.substack.com/feed/podcast/2899640.rss"
+    },
+    {
+      "name": "The Pete Quiñones Show",
+      "rss": "https://www.spreaker.com/show/6071361/episodes/feed",
+      "url": "https://www.spreaker.com/show/6071361/episodes/feed"
+    },
+    {
+      "name": "The Peter McCormack Show",
+      "rss": "https://feeds.acast.com/public/shows/69d4f193b76468caacc5068f",
+      "url": "https://feeds.acast.com/public/shows/69d4f193b76468caacc5068f"
+    },
+    {
+      "name": "The Pomp Podcast",
+      "rss": "https://anchor.fm/s/b4841110/podcast/rss",
+      "url": "https://anchor.fm/s/b4841110/podcast/rss"
+    },
+    {
+      "name": "The Proper British History Podcast: Kings, Queens, Wars, Empire, Politics, Revolutions, Royalty and the Historical Great Britain",
+      "rss": "https://feeds.megaphone.fm/the-proper-british-history-podcast",
+      "url": "https://feeds.megaphone.fm/the-proper-british-history-podcast"
+    },
+    {
+      "name": "The Real Eisman Playbook",
+      "rss": "https://feeds.megaphone.fm/GBLL9435201326",
+      "url": "https://feeds.megaphone.fm/GBLL9435201326"
+    },
+    {
+      "name": "The Real Investment Show Podcast",
+      "rss": "https://rss.libsyn.com/shows/131046/destinations/797352.xml",
+      "url": "https://rss.libsyn.com/shows/131046/destinations/797352.xml"
+    },
+    {
+      "name": "The Real Story with Michelle Makori",
+      "rss": "https://anchor.fm/s/10ddc838c/podcast/rss",
+      "url": "https://anchor.fm/s/10ddc838c/podcast/rss"
+    },
+    {
+      "name": "The Shawn Ryan Show",
+      "rss": "https://feeds.megaphone.fm/WWO7410387571",
+      "url": "https://feeds.megaphone.fm/WWO7410387571"
+    },
+    {
+      "name": "The Tim Dillon Show",
+      "rss": "https://audioboom.com/channels/5093219.rss",
+      "url": "https://audioboom.com/channels/5093219.rss"
+    },
+    {
+      "name": "The Tom Woods Show",
+      "rss": "https://tomwoodsshow.libsyn.com/rss",
+      "url": "https://tomwoodsshow.libsyn.com/rss"
+    },
+    {
+      "name": "The Tucker Carlson Show",
+      "rss": "https://feeds.megaphone.fm/RSV1597324942",
+      "url": "https://feeds.megaphone.fm/RSV1597324942"
+    },
+    {
+      "name": "Thoughtful Money with Adam Taggart",
+      "rss": "https://anchor.fm/s/eca7b164/podcast/rss",
+      "url": "https://anchor.fm/s/eca7b164/podcast/rss"
+    },
+    {
+      "name": "Tommy's PodCast",
+      "rss": "https://www.spreaker.com/show/5932796/episodes/feed",
+      "url": "https://www.spreaker.com/show/5932796/episodes/feed"
+    },
+    {
+      "name": "Top Traders Unplugged",
+      "rss": "https://feeds.captivate.fm/top-traders-unplugged/",
+      "url": "https://feeds.captivate.fm/top-traders-unplugged/"
+    },
+    {
+      "name": "TRIGGERnometry",
+      "rss": "https://feeds.megaphone.fm/AALT9618167458",
+      "url": "https://feeds.megaphone.fm/AALT9618167458"
+    },
+    {
+      "name": "UnHerd with Freddie Sayers",
+      "rss": "https://feeds.acast.com/public/shows/5fad6d24bc034454b53fe011",
+      "url": "https://feeds.acast.com/public/shows/5fad6d24bc034454b53fe011"
+    },
+    {
+      "name": "Wealthion - Be Financially Resilient",
+      "rss": "https://feeds.megaphone.fm/GEMINIMEDIA5571845247",
+      "url": "https://feeds.megaphone.fm/GEMINIMEDIA5571845247"
+    },
+    {
+      "name": "What Bitcoin Did",
+      "rss": "https://feeds.fountain.fm/UZSKQcrOnhqYS1JopxGg",
+      "url": "https://feeds.fountain.fm/UZSKQcrOnhqYS1JopxGg"
+    },
+    {
+      "name": "William Ramsey Investigates",
+      "rss": "https://www.spreaker.com/show/1898073/episodes/feed",
+      "url": "https://www.spreaker.com/show/1898073/episodes/feed"
+    },
+    {
+      "name": "WTFinance",
+      "rss": "https://anchor.fm/s/104c447d0/podcast/rss",
+      "url": "https://anchor.fm/s/104c447d0/podcast/rss"
+    }
+  ],
+  "notes": "Public recommendation list only — no listen counts or private notes."
+}
